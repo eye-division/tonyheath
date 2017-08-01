@@ -16,7 +16,7 @@ description: A base theme built on Bourbon and Neat
 baseurl: ""
 # the base hostname & protocol for your site
 url: "http://www.example.com"
-logo: "/assets/logo.png"
+logo: "/siteicon.png"
 email: a.ward@eyedivision.com
 
 # Build settings
@@ -51,6 +51,8 @@ defaults:
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
 
+# Google Recaptcha for contact form
+# recaptcha_site_key: 6Ld_UCsUAAAAAOff_4JE6Uq5ZfKicBMZefuoaQsD
 
 # Social icons and sharing options
 #
@@ -70,14 +72,14 @@ defaults:
 social:
   - name: Twitter
     icon: twitter
-    username: EyeDivision
+    username:
     url:
     desc: Follow us on Twitter
     share: true
 
   - name: Facebook
     icon: facebook
-    username: eyedivision
+    username:
     url:
     desc: Like us on Facebook
     share: true
@@ -135,10 +137,10 @@ social:
 # These are for automatically generating sharing metadata for FB and Twitter
 # OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com
 protocols:
-    fb_image: "/assets/logo.png"
-    fb_image_width: 612
-    fb_image_height: 605
+    fb_image: "/siteicon.png"
+    fb_image_width: 480
+    fb_image_height: 480
     fb_image_type: "image/png"
 
-    twitter_image: "/assets/logo.png"
+    twitter_image: "/siteicon.png"
 

@@ -1,6 +1,8 @@
-# Neat Whiskey
+# Neat Eye Gallery
 
-Neat Whiskey is a (work in progress) base theme and configuration for [Jekyll](http://jekyllrb.com/), based on Bourbon and Neat. It is a fork of the [Centratrium][centrarium] custom theme by [Ben Centra][bencentra].
+Neat Eye Gallery is a (work in progress) base theme and configuration for [Jekyll](http://jekyllrb.com/), based on Bourbon and Neat. It is a fork of the [Centratrium][centrarium] custom theme by [Ben Centra][bencentra].
+This is useful for migrations of Eye Gallery PHP / MySQL sites to Jekyll.
+Use the *thanks.html* file as a form submission page template, and *contact.html* for the basis of a Cloudcannon form if serving up with Cloudcannon.
 
 Built with these awesome libraries: 
 * [Bourbon][bourbon] 
