@@ -1,77 +1,118 @@
----
-layout: page
-main_image_path: /assets/header4.jpg
----
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Tony Heath</title>
+<meta name="description" content=", Tony Heath"> 
+<meta name="keywords" content=", Tony Heath">  
+<meta name="author" content="Eye Division">
+<meta name="Copyright" content="Copyright (c) Tony Heath">
+<meta http-equiv="Expires" content="-1">
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+<link rel="stylesheet" href="css/blueprint/screen.css" type="text/css" media="screen, projection">
+<link rel="stylesheet" href="css/eyegallery.css" type="text/css" media="screen, projection">
+<link rel="stylesheet" href="css/blueprint/print.css" type="text/css" media="print"> 
+<!--[if lt IE 8]>
+  <link rel="stylesheet" href="/css/blueprint/ie.css" type="text/css" media="screen, projection">
+  <link rel="stylesheet" href="/css/eyegallery-ie.css" type="text/css" media="screen, projection">
+<![endif]-->
+<!--[if lt IE 9]>
+  <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<link rel="stylesheet" href="css/artist.css" type="text/css" media="screen, projection">
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+    <link rel="stylesheet" href="css/theme-mini-light.css">
+    <!--[if lt IE 8]>
+    <link rel="stylesheet" href="/css/anythingslider-ie.css" type="text/css" media="screen">
+    <![endif]-->  
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+    <script src="code/jquery.anythingslider.min.js" type="text/javascript" charset="utf-8"></script>
+    <script type="text/javascript">
+    /* <![CDATA[ */
+    $(document).ready(function() {
+        $('#slider1').anythingSlider({
+                theme: 'mini-light',
+                easing: 'swing',
+                delay: 5000,
+                buildArrows: false,
+                autoPlay: true,
+                pauseOnHover: false,
+                startPanel: 1,
+                enableStartStop: false
+        });
+		$('#slider2').anythingSlider({
+                theme: 'mini-light',
+                easing: 'swing',
+                delay: 5000,
+                buildArrows: false,
+                autoPlay: true,
+                pauseOnHover: false,
+                startPanel: 1,
+                enableStartStop: false
+        });
+    });
+    /* ]]> */
+    </script>	
+    <script type="text/javascript">
 
-<ul class="post-list">
-  {% for post in paginator.posts %}
-  <li>
-    <h2>
-      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-    </h2>
-    <section class="post-excerpt" itemprop="description">
-      <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
-    </section>
-    <section class="post-meta">
-      <div class="post-date">{{ post.date | date: "%B %-d, %Y" }}</div>
-      <div class="post-categories">
-      {% if post.categories.size > 0 %}in {% for cat in post.categories %}
-        {% if site.jekyll-archives %}
-        <a href="{{ site.baseurl }}/category/{{ cat }}">{{ cat | capitalize }}</a>{% if forloop.last == false %}, {% endif %}
-        {% else %}
-        <span>{{ cat | capitalize }}</span>{% if forloop.last == false %}, {% endif %}
-        {% endif %}
-      {% endfor %}{% endif %}
-      </div>
-    </section>
-  </li>
-  {% if forloop.last == false %}
-  <hr>
-  {% endif %}
-  {% endfor %}
-</ul>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-16735011-12']);
+  _gaq.push(['_trackPageview']);
 
-<nav class="pagination" role="navigation">
-  <p>
-    {% if paginator.next_page %}
-    <a class="newer-posts" href="{{ site.baseurl }}/page{{paginator.next_page}}">
-      <span class="fa-stack fa-lg">
-        <i class="fa fa-square fa-stack-2x"></i>
-        <i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i>
-      </span>
-    </a>
-    {% else %}
-    <span class="fa-stack fa-lg">
-      <i class="fa fa-square fa-stack-2x"></i>
-      <i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i>
-    </span>
-    {% endif %}
-    <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
-    {% if paginator.previous_page %}
-      {% if paginator.page == 2 %}
-      <a class="newer-posts" href="{% if site.baseurl %}{{ site.baseurl }}{% endif %}/">
-        <span class="fa-stack fa-lg">
-          <i class="fa fa-square fa-stack-2x"></i>
-          <i class="fa fa-angle-double-right fa-stack-1x fa-inverse"></i>
-        </span>
-      </a>
-      {% else %}
-      <a class="newer-posts" href="{{ site.baseurl }}/page{{paginator.previous_page}}">
-        <span class="fa-stack fa-lg">
-          <i class="fa fa-square fa-stack-2x"></i>
-          <i class="fa fa-angle-double-right fa-stack-1x fa-inverse"></i>
-        </span>
-      </a>
-      {% endif %}
-    {% else %}
-    <span class="fa-stack fa-lg">
-      <i class="fa fa-square fa-stack-2x"></i>
-      <i class="fa fa-angle-double-right fa-stack-1x fa-inverse"></i>
-    </span>
-    {% endif %}
-  </p>
-  <p>
-    <a href="{{ site.baseurl }}/posts">View All Posts by Category</a>
-  </p>
-</nav>
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
 
+</script>
+</head>	
+<body>
+  <div class="container">
+        <header class="span-16 prepend-4 append-4">
+        <h1><a href="index.html" title="Return home" accesskey="1">Tony Heath</a></h1>	
+        </header>
+    <nav class="span-24">
+    <ul>
+    <li><a href="index.html" title="Return to the home page" accesskey="1">Home</a></li> 
+    <li><a href="thumbs.php%3Fcat=5.html">Body Language</a></li><li><a href="thumbs.php%3Fcat=7.html">Paintings - Life</a></li><li><a href="thumbs.php%3Fcat=9.html">Drawings - Life</a></li><li><a href="thumbs.php%3Fcat=3.html">Portraits</a></li><li><a href="thumbs.php%3Fcat=14.html">Figurative Abstracts</a></li><li><a href="thumbs.php%3Fcat=4.html">About</a></li><li><a href="thumbs.php%3Fcat=2.html">Contact</a></li>    </ul>
+    </nav>
+    <div id="page" class="span-22 prepend-1 append-1">
+<div class="hometext">
+         <p>&nbsp;</p>
+<p>Tony is an invigorating artist based in Gloucestershire. His work celebrates the pleasure of movement and colour through an original and vibrant style. He creates work which is ambitious, unrestrained, determined and exciting.</p>
+<p><strong><span style="color: rgb(255, 0, 0);"><em>*** RECENT EXHIBITION</em> *** &nbsp;Tony's figurative paintings were exhibited at PARAGON Gallery, Montpellier, Cheltenham as guest artist in the gallery's &quot;Cotswold Artists&quot; exhibition from Friday 21 April to Saturday 6 May 2017. The works were very well received, in particular the sale of the largest painting &quot;Maybe&quot; which filled the window.</span></strong></p>
+<p><span style="color: rgb(255, 0, 0);">www.paragongallery.co.uk</span></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Email: &nbsp;findtonyheath@btinternet.com &nbsp; &nbsp; &nbsp; Mobile: &nbsp;07803614303</p>
+<p>&nbsp;</p>         </div>
+             <div class="span-11">
+        <ul id="slider1">
+                                <li><a href="index.html#"><img src="pictures/4e9466988b660_med.jpg" alt="image" width="380" height="478"></a></li>	
+                                        <li><a href="index.html#"><img src="pictures/4ec64e6aa50a3_med.jpg" alt="image" width="340" height="474"></a></li>	
+                                        <li><a href="index.html#"><img src="pictures/4ec64f1dc9b75_med.jpg" alt="image" width="340" height="470"></a></li>	
+                                        <li><a href="index.html#"><img src="pictures/4ec64f47c3813_med.jpg" alt="image" width="340" height="470"></a></li>	
+                                        <li><a href="index.html#"><img src="pictures/4ec64f71b5998_med.jpg" alt="image" width="340" height="528"></a></li>	
+                                        <li><a href="index.html#"><img src="pictures/4ec65030ec521_med.jpg" alt="image" width="340" height="616"></a></li>	
+                            </ul>
+    </div>
+    <div class="span-11 last">
+        <ul id="slider2">
+                                <li><a href="index.html#"><img src="pictures/4e946746afddd_med.jpg" alt="image" width="380" height="480"></a></li>	
+                                        <li><a href="index.html#"><img src="pictures/4e946754eba1c_med.jpg" alt="image" width="380" height="480"></a></li>	
+                                        <li><a href="index.html#"><img src="pictures/4e9467b654b06_med.jpg" alt="image" width="380" height="480"></a></li>	
+                                        <li><a href="index.html#"><img src="pictures/4ec644e2c0787_med.jpg" alt="image" width="340" height="472"></a></li>	
+                                        <li><a href="index.html#"><img src="pictures/4ec6457c7c161_med.jpg" alt="image" width="340" height="475"></a></li>	
+                                        <li><a href="index.html#"><img src="pictures/4ec646ab81ea4_med.jpg" alt="image" width="340" height="476"></a></li>	
+                            </ul>
+    </div>
+</div>
+	<footer>&copy; All work is copyright the artist, no reproduction without permission.<br />
+    <a href="http://www.eyedivision.info" title="An Eye Gallery by Eye Division" target="_blank"><img src="images/eyegallery-box-trans.png" alt="an Eye Gallery site" width="30" height="31" /></a><br />
+	An <a href="http://www.eyedivision.info" title="Site by Eye Division" target="_blank">Eye Gallery</a> site</footer>
+     </div><!-- end container -->
+		
+	</body>
+	</html>
+	
