@@ -1,8 +1,19 @@
-- title: "Posts"
-  href: "/posts/"
-  
-- title: "Projects"
-  href: "/projects/"
-  
+- title: "Home"
+  href: "/"
+
+- title: "Body language"
+  href: "/body-language/"
+- title: "Paintings - Life"
+  href: "/paintings-life/"
+- title: "Drawings - Life"
+  href: "/drawings-life/"
+- title: "Portraits"
+  href: "/portraits/"
+- title: "Figurative abstracts"
+  href: "/figurative-abstracts/"
+
 - title: "About"
   href: "/about/"
+
+- title: "Contact"
+  href: "/contact/"
