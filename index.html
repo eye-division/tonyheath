@@ -72,8 +72,9 @@ _comments:
 
 {% if page.carousel %}
 <!-- <div class="two-thirds no-gutter"> -->
-<section>
-  <div class="flexslider">
+
+  <section class="carousel">
+    <div class="flexslider">
       <ul class="slides">
         {% for slides in page.carousel %}
         <li>
@@ -91,6 +92,7 @@ _comments:
         {% endfor %}
       </ul>
     </div>
+
   </section>
   <!-- </div> -->
   {% endif %}

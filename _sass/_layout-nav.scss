@@ -67,6 +67,7 @@ nav {
     @include media ($tablet) {
         text-align: center;
         line-height: 1.5em;
+        padding: 0 0 1.25em 0;
     }
 }
 

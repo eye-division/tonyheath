@@ -149,7 +149,12 @@ pre code.hljs {
 /*
  * page specific
  */
-
+.carousel {
+    margin: 0 auto;
+    text-align: center;
+    max-width: 32em;
+    padding-bottom: 1em;
+}
 
 .half {
     @include span-columns(12);
