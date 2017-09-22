@@ -4,21 +4,26 @@
 
 .navigation {
     margin: 0;
-    @include outer-container;
-    padding: 0 1em;
-    background-color: $white;
+    border-bottom: 1px solid $dark-gray;
+    background-color: $ccc-gray;
+
+}
+.banner {
+    background-color: $ccc-gray;
+    color: $white;
+    padding: 1em;
 }
 // Nav menu
 .navigation-wrapper {
-    //@include outer-container;
+    @include outer-container;
     @include clearfix;
+    background-color: $ccc-gray;
     position: relative;
-    background-color: $white;
 }
 
 // logo
 .logo {
-
+    text-align: center;
     //float: left;
     //height: 6em;
 
@@ -27,6 +32,8 @@
     }
     h1 {
         margin-bottom: 0;
+        border-bottom: 1px solid $dark-gray;
+        font-weight: 400;
     }
     &:active,
     &:focus,
@@ -58,7 +65,7 @@ nav {
     float: none;
     padding: 1.25em 0;
     @include media ($tablet) {
-        float: right;
+        text-align: center;
         line-height: 1.5em;
     }
 }

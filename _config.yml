@@ -35,6 +35,7 @@ highlightjs_theme: "monokai-sublime"
 # Image CDN
 imagecdn:
   staging: "https://ed-tonyheath-dev.imgix.net"
+  # http://benevolent-lake.cloudvent.net/
   production: "https://ed-tonyheath.imgix.net"
 
 # Collections
