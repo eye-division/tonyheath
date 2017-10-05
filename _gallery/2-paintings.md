@@ -166,7 +166,7 @@ images:
     image_description: 32 x 20 inches Acrylic on canvas
   - image_path: /assets/images/551d8d342cd95.jpg
     image_title: All of Me
-    image_description: 32 x 20 inches Acrylic on canvas
+    image_description: '32 x 20 inches Acrylic on canvas £2,450'
   - image_path: /assets/images/551d8d9995477.jpg
     image_title: Summertime
     image_description: 32 x 20 inches Acrylic on canvas
