@@ -46,7 +46,7 @@ images:
     image_description: H 18 x W 14 inches compressed charcoal on paper SOLD
   - image_path: /assets/images/4ec64db96e629.jpg
     image_title: All of my life
-    image_description: compressed charcoal on paper H 18 x W 14 inches £120
+    image_description: compressed charcoal on paper H 18 x W 14 inchessssss £120
   - image_path: /assets/images/4ec65030ec521.jpg
     image_title: Heavens open
     image_description: compressed charcoal on paper H 11 x W 6 inches
