@@ -218,6 +218,9 @@ images:
   - image_path: /uploads/domino.jpg
     image_title: Domino
     image_description: '24 x 18 inches  Acrylic on canvas  £1,550'
+  - image_path: /uploads/purple-heather-1.jpg
+    image_title: Purple Heather
+    image_description: 'Acrylic on Canvas  30 x 18 inches  £2,150'
 _options:
   image_path:
     width: 1200
