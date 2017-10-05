@@ -172,7 +172,7 @@ images:
     image_description: 22ins x 18ins compressed charcoal on paper £215
   - image_path: /assets/images/551e61529ce04.jpg
     image_title: Stand By Me
-    image_description: compressed charcoal on paper 22ins x 18ins £320
+    image_description: compressed charcoal on paper 22ins x 18ins £520
   - image_path: /assets/images/551e61b07c246.jpg
     image_title: Cloud Nine
     image_description: compressed charcoal on paper 18 x 22 inches £310
