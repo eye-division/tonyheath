@@ -212,6 +212,9 @@ images:
   - image_path: /assets/images/586560b53f695.jpg
     image_title: All I Ask
     image_description: 24 x 20 inches acrylic on board
+  - image_path: /uploads/sweet-thing.jpg
+    image_title: Sweet Thing
+    image_description:
 _options:
   image_path:
     width: 1200
