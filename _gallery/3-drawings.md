@@ -7,7 +7,7 @@ main_image_path:
 images:
   - image_path: /assets/images/4ec64f1dc9b75.jpg
     image_title: Sunday afternoon
-    image_description: H 15 x W 10 inches 2011 compressed charcoal on paper SOLD
+    image_description: 15 x 10 inches 2011 compressed charcoal on paper SOLD
   - image_path: /assets/images/4e9466988b660.jpg
     image_title: Moonlight shadow
     image_description: compressed charcoal on paper H 20 x W 15 inches SOLD 2010
