@@ -215,6 +215,9 @@ images:
   - image_path: /uploads/sweet-thing.jpg
     image_title: Sweet Thing
     image_description: 'Acrylic on canvas  24 x 20 inches  £1,550'
+  - image_path: /uploads/domino.jpg
+    image_title: Domino
+    image_description: '24 x 18 inches  Acrylic on canvas  £1,550'
 _options:
   image_path:
     width: 1200
