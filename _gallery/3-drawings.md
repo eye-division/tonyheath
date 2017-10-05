@@ -244,7 +244,7 @@ images:
     image_description: 18 x 22 inches compressed charcoal on paper 280
   - image_path: /assets/images/58668c35a9161.jpg
     image_title: Pearl's a Singer
-    image_description: compressed charcoal on paper 18 x 14 inches 350
+    image_description: compressed charcoal on paper 18 x 14 inches £550
   - image_path: /assets/images/58668c9840e5f.jpg
     image_title: Dreamboat
     image_description: compressed charcoal on paper 18 x 22 inches 260
