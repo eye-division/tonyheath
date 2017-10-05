@@ -13,7 +13,7 @@ images:
     image_description: acrylic on board H 24 x W 18 inches SOLD
   - image_path: /assets/images/4ec6457c7c161.jpg
     image_title: Maggie May
-    image_description: acrylic on board H 24 x 18 inches SOLD 2013
+    image_description: acrylic on board H 24 x 18 inches SOLD
   - image_path: /assets/images/4ec6481b0bf23.jpg
     image_title: Blue Moon
     image_description: Acrylic on canvas H18 X W 24 inches £675
