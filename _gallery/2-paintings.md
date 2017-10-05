@@ -127,7 +127,7 @@ images:
     image_description: 30 x 20 inches Acrylic on canvas SOLD
   - image_path: /assets/images/5370b4788385e.jpg
     image_title: Call me the Breeze
-    image_description: 30 x 20 inches Acrylic on canvas
+    image_description: '30 x 20 inches Acrylic on canvas  £2,450'
   - image_path: /assets/images/5370c47612770.jpg
     image_title: cool bunny
     image_description: 20 x 24 inches Acrylic on canvas SOLD
