@@ -214,7 +214,7 @@ images:
     image_description: 24 x 20 inches acrylic on board
   - image_path: /uploads/sweet-thing.jpg
     image_title: Sweet Thing
-    image_description:
+    image_description: Acrylic on canvas  24 x 20 inches
 _options:
   image_path:
     width: 1200
