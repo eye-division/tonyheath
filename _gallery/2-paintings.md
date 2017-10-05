@@ -118,7 +118,7 @@ images:
     image_description: 40 x 28 inches acrylic on board SOLD 2012
   - image_path: /assets/images/537098544f721.jpg
     image_title: Angel Wings
-    image_description: 32ins x 20ins Acrylic on canvas
+    image_description: '32ins x 20ins Acrylic on canvas  £2,650'
   - image_path: /assets/images/53709a3f2bd28.jpg
     image_title: Crazy Mama
     image_description: 30 x 20 inches Acrylic on canvas
