@@ -169,7 +169,7 @@ images:
     image_description: '32 x 20 inches Acrylic on canvas £2,450'
   - image_path: /assets/images/551d8d9995477.jpg
     image_title: Summertime
-    image_description: 32 x 20 inches Acrylic on canvas
+    image_description: '32 x 20 inches Acrylic on canvas  2,500'
   - image_path: /assets/images/551d8f00b2945.jpg
     image_title: Here Comes the Sun
     image_description: 20 x 32 inches Acrylic on canvas
