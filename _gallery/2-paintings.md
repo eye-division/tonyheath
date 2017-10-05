@@ -211,7 +211,7 @@ images:
     image_description: 32 x 30 inches Acrylic on canvas
   - image_path: /assets/images/586560b53f695.jpg
     image_title: All I Ask
-    image_description: 24 x 20 inches acrylic on board
+    image_description: '24 x 20 inches acrylic on canvas  1,550'
   - image_path: /uploads/sweet-thing.jpg
     image_title: Sweet Thing
     image_description: 'Acrylic on canvas  24 x 20 inches  £1,550'
