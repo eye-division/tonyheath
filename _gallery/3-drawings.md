@@ -187,7 +187,7 @@ images:
     image_description: compressed charcoal on paper 18 x 14 inches £380
   - image_path: /assets/images/551e631c64760.jpg
     image_title: Candle in the Wind
-    image_description: 18 x 14 inches compressed charcoal on paper £280
+    image_description: 18 x 14 inches compressed charcoal on paper £480
   - image_path: /assets/images/551e635da0623.jpg
     image_title: Satin Doll
     image_description: compressed charcoal on paper 18 x 14 inches SOLD
