@@ -229,7 +229,7 @@ images:
     image_description: compressed charcoal on paper 22 x 18 inches £215
   - image_path: /assets/images/554cc671dca77.jpg
     image_title: Beautiful Love
-    image_description: compressed charcoal on paper 18 x 22 inches £290
+    image_description: compressed charcoal on paper 18 x 22 inches £390
   - image_path: /assets/images/554cc75a7a8ef.jpg
     image_title: Cry Me a River
     image_description: compressed charcoal on paper 17 x 14 ins SOLD
