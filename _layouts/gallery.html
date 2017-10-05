@@ -22,7 +22,7 @@ layout: default
       {% if image.image_path %}
       <div class="gallery-box {% cycle 'alpha', '', 'last' %}">
         <a href="{% include imgpath.html src=image.image_path max-w=1280 %}" class="galleryphoto" data-lightbox="gallery" data-title="{{ image.image_title }} - {{ image.image_description }}">
-          {% include img.html src=image.image_path width=200 height=200 fit=crop alt=image.image_description %}
+          {% include img.html src=image.image_path width=200 fit=clip alt=image.image_description %}
         </a>
         <caption>{{ image.image_title }}</caption>
       </div>
