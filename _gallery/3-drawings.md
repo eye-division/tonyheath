@@ -211,7 +211,7 @@ images:
     image_description: compressed charcoal on paper 18 x 14 inches £270
   - image_path: /assets/images/551e6adde84e0.jpg
     image_title: Harvest Moon
-    image_description: compressed charcoal on paper 14 x 18 inches £320
+    image_description: compressed charcoal on paper 14 x 18 inches £520
   - image_path: /assets/images/551e6b3b1b206.jpg
     image_title: Pennies  from Heaven
     image_description: compressed charcoal on paper 17 x 14 ins £465
