@@ -28,19 +28,19 @@ images:
     image_description: H 24 x W 18 inches Acrylic on canvas SOLD
   - image_path: /assets/images/4ec6427397264.jpg
     image_title: Yesterday
-    image_description: H 24 x W 18 inches Acrylic on canvas
+    image_description: H 24 x W 18 inches Acrylic on canvas £345
   - image_path: /assets/images/4e9467a90af36.jpg
     image_title: Wake up alone
     image_description: H 18 X W 24 inches Acrylic on canvas SOLD
   - image_path: /assets/images/4ec644e2c0787.jpg
     image_title: Take it Easy
-    image_description: H 24 x W 18 inches Acrylic on canvas
+    image_description: H 24 x W 18 inches Acrylic on canvas £525
   - image_path: /assets/images/4e9467b654b06.jpg
     image_title: The very thought of you
     image_description: H 24 x W 18 inches Acrylic on board SOLD
   - image_path: /assets/images/4ec649e3115d0.jpg
     image_title: Remember a Day
-    image_description: H 18 X W 24 inches Acrylic on canvas 2011
+    image_description: H 18 X W 24 inches Acrylic on canvas 2011 £350
   - image_path: /assets/images/4e9467394620b.jpg
     image_title: Beautiful Goodbye
     image_description: H 24 x W 18 inches Acrylic on canvas SOLD 2011
@@ -52,16 +52,16 @@ images:
     image_description: H 24 x W 18 inches Acrylic on canvas SOLD
   - image_path: /assets/images/4ec647f28156a.jpg
     image_title: Head Over Feet
-    image_description: H 24 x W 18 inches Acrylic on canvas
+    image_description: H 24 x W 18 inches Acrylic on canvas £475
   - image_path: /assets/images/4ec647187bc1f.jpg
     image_title: The Strangest Thing
-    image_description: H 24 x W 18 inches Acrylic on canvas
+    image_description: H 24 x W 18 inches Acrylic on canvas £420
   - image_path: /assets/images/4ec64741bbd37.jpg
     image_title: Walk on By
     image_description: H 24 x W 18 inches acrylic on board SOLD
   - image_path: /assets/images/4ec6476f87bec.jpg
     image_title: Easy Does It
-    image_description: H 24 x W 18 inches Acrylic on canvas
+    image_description: H 24 x W 18 inches Acrylic on canvas £650
   - image_path: /assets/images/4eb4354cb6750.jpg
     image_title: I can't get no satisfaction
     image_description: H 24 x W 18 inches acrylic on board SOLD
@@ -73,7 +73,7 @@ images:
     image_description: H 18 X W 24 inches acrylic on board SOLD
   - image_path: /assets/images/513e147d86f0a.jpg
     image_title: Saratoga Swing
-    image_description: H 32 x  W 20 inches Acrylic on canvas 2012
+    image_description: H 32 x  W 20 inches Acrylic on canvas £1200 2012
   - image_path: /assets/images/513e1982020f6.jpg
     image_title: Crescendo in Blue
     image_description: '32 x  20 inches Acrylic on Canvas   £2,450'
@@ -85,7 +85,7 @@ images:
     image_description: H 32 x  W 20 inches Acrylic on canvas
   - image_path: /assets/images/513e1f7c6a569.jpg
     image_title: The Moochie
-    image_description: H 20 x W 24 inches Acrylic on canvas SOLD 2012
+    image_description: H 20 x W 24 inches Acrylic on canvas SOLD 2012 £475
   - image_path: /assets/images/513e201ad2686.jpg
     image_title: Misty Morning
     image_description: H 32 x  W 20 inches Acrylic on canvas SOLD 2012
@@ -109,7 +109,7 @@ images:
     image_description: 48 X 60 inches Acrylic on canvas SOLD 2013
   - image_path: /assets/images/517155dd2ae63.jpg
     image_title: Ride the River
-    image_description: Acrylic on canvas 2012
+    image_description: Acrylic on canvas 2012 £475
   - image_path: /assets/images/517156214a640.jpg
     image_title: All Cried Out
     image_description: Acrylic on canvas SOLD 2012
@@ -121,7 +121,7 @@ images:
     image_description: '32ins x 20ins Acrylic on canvas  £2,650'
   - image_path: /assets/images/53709a3f2bd28.jpg
     image_title: Crazy Mama
-    image_description: 30 x 20 inches Acrylic on canvas
+    image_description: 30 x 20 inches Acrylic on canvas £875
   - image_path: /assets/images/5370b39ae8dc0.jpg
     image_title: Change your Mind
     image_description: 30 x 20 inches Acrylic on canvas SOLD
@@ -133,13 +133,13 @@ images:
     image_description: 20 x 24 inches Acrylic on canvas SOLD
   - image_path: /assets/images/5370c4df79fb0.jpg
     image_title: Closer to You
-    image_description: 20 x 30 inches Acrylic on canvas
+    image_description: 20 x 30 inches Acrylic on canvas £700
   - image_path: /assets/images/5370c51b8779b.jpg
     image_title: Day Dreamer
-    image_description: 32ins x 20ins Acrylic on canvas
+    image_description: 32ins x 20ins Acrylic on canvas £1300
   - image_path: /assets/images/5370c55667ae8.jpg
     image_title: You go to my Head
-    image_description: 32ins x 20ins
+    image_description: 32ins x 20ins £925
   - image_path: /assets/images/5370cd486d99f.jpg
     image_title: knock me a kiss
     image_description: 32ins x 20ins Acrylic on canvas SOLD
@@ -148,22 +148,22 @@ images:
     image_description: 32ins x 20ins Acrylic on canvas SOLD
   - image_path: /assets/images/5370ced3872d3.jpg
     image_title: Listen to the Dawn
-    image_description: 32ins x 20ins Acrylic on canvas
+    image_description: 32ins x 20ins Acrylic on canvas £475
   - image_path: /assets/images/551d54dbdc8fd.jpg
     image_title: So What
     image_description: 70cmx50cm acrylic on board SOLD
   - image_path: /assets/images/551d5707de9a1.jpg
     image_title: Long Long Time
-    image_description: 28 x 20 inches acrylic on board
+    image_description: 28 x 20 inches acrylic on board £1300
   - image_path: /assets/images/551d5836a1874.jpg
     image_title: Dancing in the Moonlight
-    image_description: 28 x 20 inches acrylic on board
+    image_description: 28 x 20 inches acrylic on board £1575
   - image_path: /assets/images/551d58eba127f.jpg
     image_title: Interlude
-    image_description: 21x14inches acrylic on board
+    image_description: 21x14inches acrylic on board £550
   - image_path: /assets/images/551d870be35a9.jpg
     image_title: Sweet Dreams
-    image_description: 32 x 20 inches Acrylic on canvas
+    image_description: 32 x 20 inches Acrylic on canvas £1950
   - image_path: /assets/images/551d8d342cd95.jpg
     image_title: All of Me
     image_description: '32 x 20 inches Acrylic on canvas £2,450'
@@ -172,16 +172,16 @@ images:
     image_description: '32 x 20 inches Acrylic on canvas  2,500'
   - image_path: /assets/images/551d8f00b2945.jpg
     image_title: Here Comes the Sun
-    image_description: 20 x 32 inches Acrylic on canvas
+    image_description: 20 x 32 inches Acrylic on canvas £600
   - image_path: /assets/images/551d8f8cb5c88.jpg
     image_title: Feelin Good
     image_description: '20 x 32 inches Acrylic on canvas  £2,450'
   - image_path: /assets/images/554cc895530b3.jpg
     image_title: Joy Spring
-    image_description: 24 x 20 inches Acrylic on canvas
+    image_description: 24 x 20 inches Acrylic on canvas £1285
   - image_path: /assets/images/554cc92e436a4.jpg
     image_title: Aint Misbehavin
-    image_description: 24 x 20 inches Acrylic on canvas
+    image_description: 24 x 20 inches Acrylic on canvas £625
   - image_path: /assets/images/554cc99f13187.jpg
     image_title: All I Want
     image_description: 24 x 20 inches compressed charcoal on paper
@@ -190,25 +190,25 @@ images:
     image_description: '24 x 20 inches Acrylic on canvas  £1,550'
   - image_path: /assets/images/554ccab2d59bb.jpg
     image_title: In the Mood
-    image_description: 24 x 20 inches Acrylic on canvas
+    image_description: 24 x 20 inches Acrylic on canvas £1225
   - image_path: /assets/images/554ccb2ea3179.jpg
     image_title: Moondance
-    image_description: 24 x 20 inches Acrylic on canvas
+    image_description: 24 x 20 inches Acrylic on canvas £470
   - image_path: /assets/images/554ccba149674.jpg
     image_title: Take Five
-    image_description: 24 x 20 inches Acrylic on canvas
+    image_description: 24 x 20 inches Acrylic on canvas £585
   - image_path: /assets/images/586559a898e21.jpg
     image_title: Lucille
-    image_description: 28 x 20 acrylic on board
+    image_description: 28 x 20 acrylic on board £1300
   - image_path: /assets/images/58655a2984a89.jpg
     image_title: Somethin Else
-    image_description: 28 x 20 inches Acrylic on canvas
+    image_description: 28 x 20 inches Acrylic on canvas £1100
   - image_path: /assets/images/58655d86169bf.jpg
     image_title: Living Doll
-    image_description: 23 x 16 inches acrylic on board
+    image_description: 23 x 16 inches acrylic on board £725
   - image_path: /assets/images/58655e03f397c.jpg
     image_title: I Miss You
-    image_description: 32 x 30 inches Acrylic on canvas
+    image_description: 32 x 30 inches Acrylic on canvas £1750
   - image_path: /assets/images/586560b53f695.jpg
     image_title: All I Ask
     image_description: '24 x 20 inches acrylic on canvas  1,550'
