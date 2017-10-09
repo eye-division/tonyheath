@@ -1,6 +1,7 @@
 # External gems
 gems:
   - jekyll-sitemap
+  - jekyll-paginate
 
 exclude:
   - "/vendor/"
@@ -21,35 +22,42 @@ email: a.ward@eyedivision.com
 
 # Build settings
 markdown: kramdown
-# paginate: 5
-# paginate_path: "/page:num/"
-# inter_post_navigation: false
-permalink: pretty
+paginate: 5
+paginate_path: "/page:num/"
+inter_post_navigation: false
+permalink: /posts/:title
+highlightjs_theme: "monokai-sublime"
+
+# Gallery custom settings
+# gallerydisplay - display galleries on home page
+# gallerydisplay:
 
 # Image CDN
 imagecdn:
-  #staging: "http://ed-dev.imgix.net"
-  #production: "http://ed.imgix.net"
+  staging: "https://ed-tonyheath-dev.imgix.net"
+  # http://benevolent-lake.cloudvent.net/
+  production: "https://ed-tonyheath.imgix.net"
 
 # Collections
 collections:
-#     projects:
-#         output: true
-#         permalink: /projects/:path/
+      gallery:
+        output: true
+        permalink: /gallery/:path/
+        _hide_content: true
 
 
 # Defaults Example
 defaults:
-#     -
-#         scope:
-#             path: ""
-#             type: "projects"
-#         values:
-#             layout: "project"
+    -
+      scope:
+          path: ""
+          type: "gallery"
+      values:
+          layout: "gallery"
 
 
 # Google analytics
-# ga_tracking_id: "UA-XXXX-1"
+ga_tracking_id: "UA-16735011-12"
 
 # Google Recaptcha for contact form
 # recaptcha_site_key: 6Ld_UCsUAAAAAOff_4JE6Uq5ZfKicBMZefuoaQsD
@@ -137,10 +145,10 @@ social:
 # These are for automatically generating sharing metadata for FB and Twitter
 # OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com
 protocols:
-    fb_image: "/siteicon.png"
-    fb_image_width: 480
-    fb_image_height: 480
+    fb_image: "/assets/logo.png"
+    fb_image_width: 612
+    fb_image_height: 605
     fb_image_type: "image/png"
 
-    twitter_image: "/siteicon.png"
+    twitter_image: "/assets/logo.png"
 
