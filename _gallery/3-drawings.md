@@ -21,7 +21,7 @@ images:
     image_title: You ought to know
     image_description: compressed charcoal on paper H 15 x W 10 inches SOLD
   - image_path: /assets/images/4ec64f71b5998.jpg
-    image_title: Anyway the wind blows
+    image_title: Anyway the Wind Blows
     image_description: compressed charcoal on paper H 14 x W 8 inches SOLD
   - image_path: /assets/images/4e94670f5bd2f.jpg
     image_title: Nobody knows
