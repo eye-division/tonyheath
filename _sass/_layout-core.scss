@@ -1,8 +1,5 @@
+///	Globals
 
-
-/*
-*	Globals
-*/
 html, body {
     margin: 0;
     padding: 0;
@@ -43,7 +40,7 @@ code {
     padding: 0 3px;
 }
 
-/* SVG icons */
+/// SVG icons
 .icon {
     display: inline-block;
     width: 30px;
@@ -114,9 +111,8 @@ pre code.hljs {
     }
 }
 
-/*
-*   Banner
-*/
+///   Banner
+
 .site-header-container, .post-header-container {
     width: 100%;
     &.has-cover {
@@ -146,14 +142,17 @@ pre code.hljs {
         }
     }
 }
-/*
- * page specific
- */
+/// page specific
+
+/// home
 .carousel {
     margin: 0 auto;
     text-align: center;
     max-width: 32em;
     padding-bottom: 1em;
+    @include media($tablet) {
+
+    }
 }
 
 .half {
@@ -165,9 +164,8 @@ pre code.hljs {
 .textright {
     text-align: right;
 }
-/*
-*	Body
-*/
+///	Body
+
 .page-content {
 
     @include outer-container;
@@ -182,9 +180,8 @@ pre code.hljs {
 
     }
 
-    /*
-    *	index.html
-    */
+    ///	index.html
+
     .post-list {
         padding-top: 1em !important;
         @extend %default-ul;
@@ -232,9 +229,8 @@ pre code.hljs {
         margin: auto;
         max-width: 100%;
     }
-    /*
-    *	Posts
-    */
+    ///	Posts
+
     .post {
         ul {
             margin-bottom: 1em;
@@ -298,9 +294,8 @@ pre code.hljs {
             }
         }
     }
-    /*
-    *	Pages
-    */
+    ///	Pages
+
     .page {
 
         .post-header {
@@ -338,9 +333,8 @@ pre code.hljs {
     }
 }
 
-/*
-*	Footer
-*/
+///	Footer
+
 .site-footer {
     @include outer-container;
     padding: 1em;
@@ -364,9 +358,8 @@ pre code.hljs {
 
 
 }
-/*
-*   Site Navigation (left)
-*/
+///   Site Navigation (left)
+
 .site-navigation {
     @include span-columns(12);
     @include media ($mobile) {
@@ -377,9 +370,8 @@ pre code.hljs {
         @extend %default-ul;
     }
 }
-/*
-*   Site Description/Signature (right)
-*/
+///   Site Description/Signature (right)
+
 .site-signature {
     margin-top: 1em;
     text-align: center;
@@ -394,9 +386,8 @@ pre code.hljs {
         text-decoration: underline;
     }
 }
-/*
-*   Contact Info (center)
-*/
+///   Contact Info (center)
+
 .site-contact {
     margin-top: 1em;
     @include span-columns(12);
@@ -415,9 +406,8 @@ pre code.hljs {
         @extend %default-ul;
     }
 }
-/*
-* Editor link
-*/
+/// Editor link
+
 .editor-link {
   display: none;
 }
@@ -425,3 +415,4 @@ pre code.hljs {
 .cms-editor-active .editor-link {
   display: block;
 }
+
