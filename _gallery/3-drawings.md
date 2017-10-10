@@ -24,7 +24,7 @@ images:
     image_title: Anyway the Wind Blows
     image_description: compressed charcoal on paper H 14 x W 8 inches SOLD
   - image_path: /assets/images/4e94670f5bd2f.jpg
-    image_title: Nobody knows
+    image_title: Nobody Knows
     image_description: H 16 x W 10 inches compressed charcoal on paper SOLD
   - image_path: /assets/images/4ec64d759050a.jpg
     image_title: Always on my mind
