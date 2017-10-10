@@ -10,7 +10,7 @@ images:
     image_description: 15 x 10 inches  compressed charcoal on paper SOLD
   - image_path: /assets/images/4e9466988b660.jpg
     image_title: Moonlight shadow
-    image_description: compressed charcoal on paper H 20 x W 15 inches SOLD 2010
+    image_description: compressed charcoal on paper H 20 x W 15 inches SOLD
   - image_path: /assets/images/4ec64f47c3813.jpg
     image_title: Tell me the Answer
     image_description: compressed charcoal on paper H 15 x W 10 inches SOLD
