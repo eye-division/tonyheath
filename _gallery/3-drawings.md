@@ -85,7 +85,7 @@ images:
     image_description: compressed charcoal on paper 22 x 18 inches £380
   - image_path: /assets/images/5161960a3979c.jpg
     image_title: Hold On
-    image_description: compressed charcoal on paper 18 x 14 inches SOLD 2013
+    image_description: compressed charcoal on paper 18 x 14 inches SOLD
   - image_path: /assets/images/5161965068d32.jpg
     image_title: No Reason
     image_description: compressed charcoal on paper 22 x 18 inches SOLD 2013
