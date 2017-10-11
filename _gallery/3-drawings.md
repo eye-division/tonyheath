@@ -82,7 +82,7 @@ images:
     image_description: 14 x 18 inches 2013 compressed charcoal on paper SOLD
   - image_path: /assets/images/5161959a68203.jpg
     image_title: Thank You for the Music
-    image_description: compressed charcoal on paper 22 x 18 inches £220 2013
+    image_description: compressed charcoal on paper 22 x 18 inches £380
   - image_path: /assets/images/5161960a3979c.jpg
     image_title: Hold On
     image_description: compressed charcoal on paper 18 x 14 inches SOLD 2013
