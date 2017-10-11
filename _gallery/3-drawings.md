@@ -48,8 +48,8 @@ images:
     image_title: All of My Life
     image_description: compressed charcoal on paper H 18 x W 14 inches £320
   - image_path: /assets/images/4ec65030ec521.jpg
-    image_title: Heavens open
-    image_description: compressed charcoal on paper H 11 x W 6 inches
+    image_title: Heavens Open
+    image_description: compressed charcoal on paper H 11 x W 6 inches £310
   - image_path: /assets/images/4e9466d54bbad.jpg
     image_title: Someone like you
     image_description: compressed charcoal on paper H 20 x W 15 inches SOLD
