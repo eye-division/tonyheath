@@ -76,7 +76,7 @@ images:
     image_description: compressed charcoal on paper H 14 x W 8 inches SOLD
   - image_path: /assets/images/516193001f252.jpg
     image_title: Summer Daze
-    image_description: compressed charcoal on paper 18 x 14 inches SOLD 2013
+    image_description: compressed charcoal on paper 18 x 14 inches SOLD
   - image_path: /assets/images/516194ba23bfc.jpg
     image_title: If Not for You
     image_description: 14 x 18 inches 2013 compressed charcoal on paper SOLD
