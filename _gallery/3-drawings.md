@@ -7,10 +7,10 @@ main_image_path:
 images:
   - image_path: /assets/images/4ec64f1dc9b75.jpg
     image_title: Sunday afternoon
-    image_description: 15 x 10 inches 2011 compressed charcoal on paper SOLD
+    image_description: 15 x 10 inches  compressed charcoal on paper SOLD
   - image_path: /assets/images/4e9466988b660.jpg
     image_title: Moonlight shadow
-    image_description: compressed charcoal on paper H 20 x W 15 inches SOLD 2010
+    image_description: compressed charcoal on paper H 20 x W 15 inches SOLD
   - image_path: /assets/images/4ec64f47c3813.jpg
     image_title: Tell me the Answer
     image_description: compressed charcoal on paper H 15 x W 10 inches SOLD
@@ -21,10 +21,10 @@ images:
     image_title: You ought to know
     image_description: compressed charcoal on paper H 15 x W 10 inches SOLD
   - image_path: /assets/images/4ec64f71b5998.jpg
-    image_title: Anyway the wind blows
+    image_title: Anyway the Wind Blows
     image_description: compressed charcoal on paper H 14 x W 8 inches SOLD
   - image_path: /assets/images/4e94670f5bd2f.jpg
-    image_title: Nobody knows
+    image_title: Nobody Knows
     image_description: H 16 x W 10 inches compressed charcoal on paper SOLD
   - image_path: /assets/images/4ec64d759050a.jpg
     image_title: Always on my mind
@@ -45,8 +45,8 @@ images:
     image_title: The hush
     image_description: H 18 x W 14 inches compressed charcoal on paper SOLD
   - image_path: /assets/images/4ec64db96e629.jpg
-    image_title: All of my life
-    image_description: compressed charcoal on paper H 18 x W 14 inches £120
+    image_title: All of My Life
+    image_description: compressed charcoal on paper H 18 x W 14 inches £320
   - image_path: /assets/images/4ec65030ec521.jpg
     image_title: Heavens open
     image_description: compressed charcoal on paper H 11 x W 6 inches
