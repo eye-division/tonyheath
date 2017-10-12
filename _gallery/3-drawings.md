@@ -127,7 +127,7 @@ images:
     image_description: compressed charcoal on paper 22 x 18 inches SOLD
   - image_path: /assets/images/51705657335a4.jpg
     image_title: Do'nt Dream its Over
-    image_description: compressed charcoal on paper 22 x 18 inches SOLD 2012
+    image_description: compressed charcoal on paper 22 x 18 inches SOLD
   - image_path: /assets/images/5170572c1bc11.jpg
     image_title: Do You Remember
     image_description: compressed charcoal on paper 22 x 18 inches
