@@ -151,7 +151,7 @@ images:
     image_description: compressed charcoal on paper 22 x 17 inches £470
   - image_path: /assets/images/551d9139278fb.jpg
     image_title: Desert Rose
-    image_description: 20 x 14 inches compressed charcoal on paper £255
+    image_description: 20 x 14 inches compressed charcoal on paper £355
   - image_path: /assets/images/551d91cc6d1ad.jpg
     image_title: Blowin in the Wind
     image_description: compressed charcoal on paper 22ins x 18ins £180
