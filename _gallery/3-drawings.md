@@ -148,7 +148,7 @@ images:
     image_description: compressed charcoal on paper 22ins x 18ins SOLD
   - image_path: /assets/images/5370dbd140f82.jpg
     image_title: melt my heart
-    image_description: compressed charcoal on paper 22 x 17 inches £270
+    image_description: compressed charcoal on paper 22 x 17 inches £470
   - image_path: /assets/images/551d9139278fb.jpg
     image_title: Desert Rose
     image_description: 20 x 14 inches compressed charcoal on paper £255
