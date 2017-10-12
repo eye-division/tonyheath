@@ -163,7 +163,7 @@ images:
     image_description: compressed charcoal on paper 22ins x 18ins £455
   - image_path: /assets/images/551da7c793825.jpg
     image_title: Body and Soul
-    image_description: compressed charcoal on paper 22ins x 18ins £235
+    image_description: compressed charcoal on paper 22ins x 18ins £435
   - image_path: /assets/images/551da822ab5a3.jpg
     image_title: Star Dust
     image_description: compressed charcoal on paper 18 x 22 inches SOLD
