@@ -181,7 +181,7 @@ images:
     image_description: compressed charcoal on paper 22ins x 18ins £305
   - image_path: /assets/images/551e6267bae85.jpg
     image_title: Misty
-    image_description: compressed charcoal on paper 18 x 14 inches £225
+    image_description: compressed charcoal on paper 18 x 14 inches £375
   - image_path: /assets/images/551e62b538e4b.jpg
     image_title: April in Paris
     image_description: compressed charcoal on paper 18 x 14 inches £380
