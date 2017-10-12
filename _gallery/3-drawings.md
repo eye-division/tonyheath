@@ -239,9 +239,6 @@ images:
   - image_path: /assets/images/58668b368db8a.jpg
     image_title: Safari
     image_description: compressed charcoal on paper 20 x 25 inches £375
-  - image_path: /assets/images/58668bc97ae8e.jpg
-    image_title: Yesterdays
-    image_description: 18 x 22 inches compressed charcoal on paper £380
   - image_path: /assets/images/58668c35a9161.jpg
     image_title: Pearl's a Singer
     image_description: compressed charcoal on paper 18 x 14 inches £550
