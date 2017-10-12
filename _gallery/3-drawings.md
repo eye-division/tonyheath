@@ -226,7 +226,7 @@ images:
     image_description: 22 x 18 inches compressed charcoal on paper £375
   - image_path: /assets/images/554cc5d72aee8.jpg
     image_title: Hello Dolly
-    image_description: compressed charcoal on paper 22 x 18 inches £215
+    image_description: compressed charcoal on paper 22 x 18 inches £295
   - image_path: /assets/images/554cc671dca77.jpg
     image_title: Beautiful Love
     image_description: compressed charcoal on paper 18 x 22 inches £390
