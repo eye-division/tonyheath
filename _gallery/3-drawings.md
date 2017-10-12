@@ -208,7 +208,7 @@ images:
     image_description: 18 x 14 inches compressed charcoal on paper SOLD
   - image_path: /assets/images/551e6a93d71db.jpg
     image_title: Night and Day
-    image_description: compressed charcoal on paper 18 x 14 inches £270
+    image_description: compressed charcoal on paper 18 x 14 inches £570
   - image_path: /assets/images/551e6adde84e0.jpg
     image_title: Harvest Moon
     image_description: compressed charcoal on paper 14 x 18 inches £520
