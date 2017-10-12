@@ -247,7 +247,7 @@ images:
     image_description: compressed charcoal on paper 18 x 14 inches £550
   - image_path: /assets/images/58668c9840e5f.jpg
     image_title: Dreamboat
-    image_description: compressed charcoal on paper 18 x 22 inches 260
+    image_description: compressed charcoal on paper 18 x 22 inches £340
   - image_path: /assets/images/58668cfec53f3.jpg
     image_title: Lilac Wine
     image_description: compressed charcoal on paper 18 x 22 inches 325
