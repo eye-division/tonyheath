@@ -118,7 +118,7 @@ images:
     image_description: 22 x 18 inches 2012 compressed charcoal on paper SOLD
   - image_path: /assets/images/517043d75eab5.jpg
     image_title: Tired of Waiting
-    image_description: compressed charcoal on paper 22 x 18 inches £270
+    image_description: compressed charcoal on paper 22 x 18 inches £420
   - image_path: /assets/images/5170441ede405.jpg
     image_title: Always and Forever
     image_description: compressed charcoal on paper 18 x 14 inches SOLD 2012
