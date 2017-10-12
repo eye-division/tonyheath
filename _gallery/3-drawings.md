@@ -91,7 +91,7 @@ images:
     image_description: compressed charcoal on paper 22 x 18 inches SOLD
   - image_path: /assets/images/5161968e9f05a.jpg
     image_title: Everywhere
-    image_description: compressed charcoal on paper 18 x 14 inches SOLD 2013
+    image_description: compressed charcoal on paper 18 x 14 inches SOLD
   - image_path: /assets/images/516196d4bed4a.jpg
     image_title: Do'nt Cry Sister
     image_description: compressed charcoal on paper 18 x 14 inches SOLD 2013
