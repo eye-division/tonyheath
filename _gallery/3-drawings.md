@@ -154,7 +154,7 @@ images:
     image_description: 20 x 14 inches compressed charcoal on paper £355
   - image_path: /assets/images/551d91cc6d1ad.jpg
     image_title: Blowin in the Wind
-    image_description: compressed charcoal on paper 22ins x 18ins £180
+    image_description: compressed charcoal on paper 22ins x 18ins £380
   - image_path: /assets/images/551d922a56213.jpg
     image_title: Hey Jude
     image_description: compressed charcoal on paper 17 x18 inches £245
