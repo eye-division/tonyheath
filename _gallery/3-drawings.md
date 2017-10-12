@@ -196,7 +196,7 @@ images:
     image_description: compressed charcoal on paper 18 x 14 inches SOLD
   - image_path: /assets/images/551e693d1488d.jpg
     image_title: Shadows in the Night
-    image_description: compressed charcoal on paper 14 x 18 inches £510
+    image_description: compressed charcoal on paper 14 x 18 inches SOLD
   - image_path: /assets/images/551e697fe917f.jpg
     image_title: One Love
     image_description: compressed charcoal on paper 18 x 14 inches £210
