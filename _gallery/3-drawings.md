@@ -100,7 +100,7 @@ images:
     image_description: 22 x 18 inches  compressed charcoal on paper £385
   - image_path: /assets/images/5170414ae11f8.jpg
     image_title: Go Your Own Way
-    image_description: compressed charcoal on paper 22 x 18 inches SOLD 2012
+    image_description: compressed charcoal on paper 22 x 18 inches SOLD
   - image_path: /assets/images/5170419c74dea.jpg
     image_title: As Long as You Follow
     image_description: compressed charcoal on paper 22 x 18 inches SOLD
