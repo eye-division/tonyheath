@@ -220,7 +220,7 @@ images:
     image_description: compressed charcoal on paper 14 x 11 ins SOLD
   - image_path: /assets/images/554cc40eb166d.jpg
     image_title: It Had to be You
-    image_description: compressed charcoal on paper 22ins x 18ins £350
+    image_description: compressed charcoal on paper 22ins x 18ins £450
   - image_path: /assets/images/554cc51b32493.jpg
     image_title: Aint No Sunshine
     image_description: 22 x 18 inches compressed charcoal on paper £275
