@@ -202,7 +202,7 @@ images:
     image_description: compressed charcoal on paper 18 x 14 inches £320
   - image_path: /assets/images/551e69ed3b8c3.jpg
     image_title: Yellow River
-    image_description: compressed charcoal on paper 18 x 14 inches £285
+    image_description: compressed charcoal on paper 18 x 14 inches £325
   - image_path: /assets/images/551e6a384f18b.jpg
     image_title: Moonglow
     image_description: 18 x 14 inches compressed charcoal on paper SOLD
