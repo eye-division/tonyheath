@@ -136,7 +136,7 @@ images:
     image_description: 22 x 18 inches 2012 compressed charcoal on paper SOLD
   - image_path: /assets/images/53709e282885d.jpg
     image_title: Crazy for You
-    image_description: compressed charcoal on paper 22ins x 18ins £195
+    image_description: compressed charcoal on paper 22ins x 18ins £495
   - image_path: /assets/images/5370a99ad3c76.jpg
     image_title: Hey Baby
     image_description: compressed charcoal on paper 22ins x 18ins SOLD
