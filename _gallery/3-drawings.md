@@ -160,7 +160,7 @@ images:
     image_description: compressed charcoal on paper 17 x18 inches £445
   - image_path: /assets/images/551dab22c89c9.jpg
     image_title: Another Day
-    image_description: compressed charcoal on paper 22ins x 18ins £255
+    image_description: compressed charcoal on paper 22ins x 18ins £455
   - image_path: /assets/images/551da7c793825.jpg
     image_title: Body and Soul
     image_description: compressed charcoal on paper 22ins x 18ins £235
