@@ -223,7 +223,7 @@ images:
     image_description: compressed charcoal on paper 22ins x 18ins £450
   - image_path: /assets/images/554cc51b32493.jpg
     image_title: Aint No Sunshine
-    image_description: 22 x 18 inches compressed charcoal on paper £275
+    image_description: 22 x 18 inches compressed charcoal on paper £375
   - image_path: /assets/images/554cc5d72aee8.jpg
     image_title: Hello Dolly
     image_description: compressed charcoal on paper 22 x 18 inches £215
