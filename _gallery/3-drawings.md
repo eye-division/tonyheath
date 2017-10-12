@@ -157,7 +157,7 @@ images:
     image_description: compressed charcoal on paper 22ins x 18ins £380
   - image_path: /assets/images/551d922a56213.jpg
     image_title: Hey Jude
-    image_description: compressed charcoal on paper 17 x18 inches £245
+    image_description: compressed charcoal on paper 17 x18 inches £445
   - image_path: /assets/images/551dab22c89c9.jpg
     image_title: Another Day
     image_description: compressed charcoal on paper 22ins x 18ins £255
