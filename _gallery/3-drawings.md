@@ -121,7 +121,7 @@ images:
     image_description: compressed charcoal on paper 22 x 18 inches £420
   - image_path: /assets/images/5170441ede405.jpg
     image_title: Always and Forever
-    image_description: compressed charcoal on paper 18 x 14 inches SOLD 2012
+    image_description: compressed charcoal on paper 18 x 14 inches SOLD
   - image_path: /assets/images/517055c30a9f8.jpg
     image_title: The Perfect Year
     image_description: compressed charcoal on paper 22 x 18 inches SOLD
