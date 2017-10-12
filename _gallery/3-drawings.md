@@ -130,7 +130,7 @@ images:
     image_description: compressed charcoal on paper 22 x 18 inches SOLD
   - image_path: /assets/images/5170572c1bc11.jpg
     image_title: Do You Remember
-    image_description: compressed charcoal on paper 22 x 18 inches
+    image_description: compressed charcoal on paper 22 x 18 inches £435
   - image_path: /assets/images/51705875e09b1.jpg
     image_title: Colours
     image_description: 22 x 18 inches 2012 compressed charcoal on paper SOLD
