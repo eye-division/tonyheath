@@ -250,7 +250,7 @@ images:
     image_description: compressed charcoal on paper 18 x 22 inches £340
   - image_path: /assets/images/58668cfec53f3.jpg
     image_title: Lilac Wine
-    image_description: compressed charcoal on paper 18 x 22 inches 325
+    image_description: compressed charcoal on paper 18 x 22 inches £395
 _options:
   image_path:
     width: 1200
