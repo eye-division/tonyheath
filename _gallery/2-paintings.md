@@ -79,7 +79,7 @@ images:
     image_description: '32 x  20 inches Acrylic on Canvas   £2,450'
   - image_path: /assets/images/513e1df70995a.jpg
     image_title: It Do'nt Mean a Thing
-    image_description: H 24 x W 20 inches Acrylic on canvas SOLD 2012
+    image_description: H 24 x W 20 inches Acrylic on canvas SOLD
   - image_path: /assets/images/513e1ecf4882b.jpg
     image_title: Moon Mist
     image_description: H 32 x  W 20 inches Acrylic on canvas
