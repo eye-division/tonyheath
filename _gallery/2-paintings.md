@@ -113,9 +113,6 @@ images:
   - image_path: /assets/images/517156214a640.jpg
     image_title: All Cried Out
     image_description: Acrylic on canvas SOLD
-  - image_path: /assets/images/51755e63a68d4.jpg
-    image_title: Call it Love
-    image_description: 40 x 28 inches acrylic on board SOLD 2012
   - image_path: /assets/images/537098544f721.jpg
     image_title: Angel Wings
     image_description: '32ins x 20ins Acrylic on canvas  £2,650'
