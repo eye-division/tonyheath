@@ -91,7 +91,7 @@ images:
     image_description: H 32 x  W 20 inches Acrylic on canvas SOLD
   - image_path: /assets/images/513e208c4f0d8.jpg
     image_title: The Dicty Glide
-    image_description: H 32 x  W 20 inches Acrylic on canvas SOLD 2012
+    image_description: H 32 x  W 20 inches Acrylic on canvas SOLD
   - image_path: /assets/images/513e21555ec18.jpg
     image_title: In a Sentimental Mood
     image_description: H 20 x W 32 inches Acrylic on canvas SOLD 2002
