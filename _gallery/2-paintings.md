@@ -40,7 +40,7 @@ images:
     image_description: H 24 x W 18 inches Acrylic on board SOLD
   - image_path: /assets/images/4ec649e3115d0.jpg
     image_title: Remember a Day
-    image_description: H 18 X W 24 inches Acrylic on canvas 2011 £350
+    image_description: H 18 X W 24 inches Acrylic on canvas 2011 £935
   - image_path: /assets/images/4e9467394620b.jpg
     image_title: Beautiful Goodbye
     image_description: H 24 x W 18 inches Acrylic on canvas SOLD 2011
