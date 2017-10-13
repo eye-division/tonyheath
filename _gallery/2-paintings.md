@@ -22,7 +22,7 @@ images:
     image_description: acrylic on board H 24 x W 18 inches SOLD
   - image_path: /assets/images/4ec646ab81ea4.jpg
     image_title: Ride the Storm
-    image_description: Acrylic on canvas H 24 x W 18 inches £600
+    image_description: Acrylic on canvas H 24 x W 18 inches £875
   - image_path: /assets/images/4e946754eba1c.jpg
     image_title: Around Midnight
     image_description: H 24 x W 18 inches Acrylic on canvas SOLD
