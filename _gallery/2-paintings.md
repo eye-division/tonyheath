@@ -94,7 +94,7 @@ images:
     image_description: H 32 x  W 20 inches Acrylic on canvas SOLD
   - image_path: /assets/images/513e21555ec18.jpg
     image_title: In a Sentimental Mood
-    image_description: H 20 x W 32 inches Acrylic on canvas SOLD 2002
+    image_description: H 20 x W 32 inches Acrylic on canvas SOLD
   - image_path: /assets/images/516fffed2fcc0.jpg
     image_title: Cajun Moon
     image_description: 32 x 20 inches SOLD 2013
