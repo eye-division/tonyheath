@@ -97,7 +97,7 @@ images:
     image_description: H 20 x W 32 inches Acrylic on canvas SOLD
   - image_path: /assets/images/516fffed2fcc0.jpg
     image_title: Cajun Moon
-    image_description: 32 x 20 inches SOLD 2013
+    image_description: 32 x 20 inches SOLD
   - image_path: /assets/images/5170007764eb4.jpg
     image_title: String of Pearls
     image_description: 40x32 inches Acrylic on canvas SOLD
