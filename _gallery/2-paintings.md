@@ -61,7 +61,7 @@ images:
     image_description: H 24 x W 18 inches acrylic on board SOLD
   - image_path: /assets/images/4ec6476f87bec.jpg
     image_title: Easy Does It
-    image_description: H 24 x W 18 inches Acrylic on canvas £650
+    image_description: H 24 x W 18 inches Acrylic on canvas SOLD
   - image_path: /assets/images/4eb4354cb6750.jpg
     image_title: I can't get no satisfaction
     image_description: H 24 x W 18 inches acrylic on board SOLD
