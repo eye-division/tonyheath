@@ -14,9 +14,6 @@ images:
   - image_path: /assets/images/4e946746afddd.jpg
     image_title: Careless Whisper
     image_description: acrylic on board H 24 x W 18 inches SOLD
-  - image_path: /assets/images/4ec6481b0bf23.jpg
-    image_title: Blue Moon
-    image_description: Acrylic on canvas H18 X W 24 inches £975
   - image_path: /assets/images/4ec64799eb5fb.jpg
     image_title: The First Time
     image_description: acrylic on board H 24 x W 18 inches SOLD
@@ -83,6 +80,9 @@ images:
   - image_path: /assets/images/513e1df70995a.jpg
     image_title: It Do'nt Mean a Thing
     image_description: H 24 x W 20 inches Acrylic on canvas SOLD
+  - image_path: /assets/images/4ec6481b0bf23.jpg
+    image_title: Blue Moon
+    image_description: Acrylic on canvas H18 X W 24 inches £975
   - image_path: /assets/images/513e1ecf4882b.jpg
     image_title: Moon Mist
     image_description: H 32 x  W 20 inches Acrylic on canvas SOLD
