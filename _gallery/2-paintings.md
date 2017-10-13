@@ -166,7 +166,7 @@ images:
     image_description: '32 x 20 inches Acrylic on canvas  2,500'
   - image_path: /assets/images/551d8f00b2945.jpg
     image_title: Here Comes the Sun
-    image_description: 20 x 32 inches Acrylic on canvas £600
+    image_description: 20 x 32 inches Acrylic on canvas £1200
   - image_path: /assets/images/551d8f8cb5c88.jpg
     image_title: Feelin Good
     image_description: '20 x 32 inches Acrylic on canvas  £2,450'
