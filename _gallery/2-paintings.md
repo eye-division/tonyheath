@@ -65,6 +65,9 @@ images:
   - image_path: /assets/images/4eb4357ba05dc.jpg
     image_title: I say a little prayer
     image_description: H 24 x W 18 inches Acrylic on canvas SOLD
+  - image_path: /uploads/purple-heather-1.jpg
+    image_title: Purple Heather
+    image_description: 'Acrylic on Canvas  30 x 18 inches  £2,150'
   - image_path: /assets/images/4e94678c4f2f8.jpg
     image_title: Let me see
     image_description: H 18 X W 24 inches acrylic on board SOLD
@@ -167,9 +170,6 @@ images:
   - image_path: /assets/images/551d8f00b2945.jpg
     image_title: Here Comes the Sun
     image_description: 20 x 32 inches Acrylic on canvas £1200
-  - image_path: /uploads/purple-heather-1.jpg
-    image_title: Purple Heather
-    image_description: 'Acrylic on Canvas  30 x 18 inches  £2,150'
   - image_path: /assets/images/551d8f8cb5c88.jpg
     image_title: Feelin Good
     image_description: '20 x 32 inches Acrylic on canvas  £2,450'
