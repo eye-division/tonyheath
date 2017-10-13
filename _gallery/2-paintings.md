@@ -11,9 +11,6 @@ images:
   - image_path: /assets/images/4e946746afddd.jpg
     image_title: Careless Whisper
     image_description: acrylic on board H 24 x W 18 inches SOLD
-  - image_path: /assets/images/4ec64602c74a2.jpg
-    image_title: Forever Autumn
-    image_description: acrylic on board H 24 x W 18 inches SOLD
   - image_path: /assets/images/4ec6481b0bf23.jpg
     image_title: Blue Moon
     image_description: Acrylic on canvas H18 X W 24 inches £975
@@ -44,6 +41,9 @@ images:
   - image_path: /assets/images/4e9467394620b.jpg
     image_title: Beautiful Goodbye
     image_description: H 24 x W 18 inches Acrylic on canvas SOLD
+  - image_path: /assets/images/4ec64602c74a2.jpg
+    image_title: Forever Autumn
+    image_description: acrylic on board H 24 x W 18 inches SOLD
   - image_path: /assets/images/4e94677e14e04.jpg
     image_title: September Song
     image_description: H 24 x W 18 inches Acrylic on canvas SOLD
