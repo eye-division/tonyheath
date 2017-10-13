@@ -167,6 +167,9 @@ images:
   - image_path: /assets/images/551d8f00b2945.jpg
     image_title: Here Comes the Sun
     image_description: 20 x 32 inches Acrylic on canvas £1200
+  - image_path: /uploads/purple-heather-1.jpg
+    image_title: Purple Heather
+    image_description: 'Acrylic on Canvas  30 x 18 inches  £2,150'
   - image_path: /assets/images/551d8f8cb5c88.jpg
     image_title: Feelin Good
     image_description: '20 x 32 inches Acrylic on canvas  £2,450'
@@ -212,9 +215,6 @@ images:
   - image_path: /uploads/domino.jpg
     image_title: Domino
     image_description: '24 x 18 inches  Acrylic on canvas  £1,550'
-  - image_path: /uploads/purple-heather-1.jpg
-    image_title: Purple Heather
-    image_description: 'Acrylic on Canvas  30 x 18 inches  £2,150'
 _options:
   image_path:
     width: 1200
