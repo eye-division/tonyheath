@@ -106,7 +106,7 @@ images:
     image_description: 24 x 16 inches Acrylic on canvas SOLD
   - image_path: /assets/images/517007ceea5b5.jpg
     image_title: Maybe
-    image_description: 48 X 60 inches Acrylic on canvas SOLD 2013
+    image_description: 48 X 60 inches Acrylic on canvas SOLD
   - image_path: /assets/images/517155dd2ae63.jpg
     image_title: Ride the River
     image_description: Acrylic on canvas 2012 £475
