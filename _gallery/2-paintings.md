@@ -187,7 +187,7 @@ images:
     image_description: 24 x 20 inches Acrylic on canvas £1225
   - image_path: /assets/images/554ccb2ea3179.jpg
     image_title: Moondance
-    image_description: 24 x 20 inches Acrylic on canvas £470
+    image_description: 24 x 20 inches Acrylic on canvas £1170
   - image_path: /assets/images/554ccba149674.jpg
     image_title: Take Five
     image_description: 24 x 20 inches Acrylic on canvas £585
