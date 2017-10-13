@@ -82,7 +82,7 @@ images:
     image_description: H 24 x W 20 inches Acrylic on canvas SOLD
   - image_path: /assets/images/513e1ecf4882b.jpg
     image_title: Moon Mist
-    image_description: H 32 x  W 20 inches Acrylic on canvas
+    image_description: H 32 x  W 20 inches Acrylic on canvas SOLD
   - image_path: /assets/images/513e1f7c6a569.jpg
     image_title: The Moochie
     image_description: H 20 x W 24 inches Acrylic on canvas SOLD 2012 £475
