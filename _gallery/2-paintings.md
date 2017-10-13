@@ -31,7 +31,7 @@ images:
     image_description: H 18 X W 24 inches Acrylic on canvas SOLD
   - image_path: /assets/images/4ec6427397264.jpg
     image_title: Yesterday
-    image_description: H 24 x W 18 inches Acrylic on canvas £345
+    image_description: H 24 x W 18 inches Acrylic on canvas £845
   - image_path: /assets/images/4ec644e2c0787.jpg
     image_title: Take it Easy
     image_description: H 24 x W 18 inches Acrylic on canvas £525
