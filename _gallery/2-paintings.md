@@ -196,7 +196,7 @@ images:
     image_description: 28 x 20 acrylic on board £1300
   - image_path: /assets/images/58655a2984a89.jpg
     image_title: Somethin Else
-    image_description: 28 x 20 inches Acrylic on canvas £110
+    image_description: 28 x 20 inches Acrylic on canvas £885
   - image_path: /assets/images/58655d86169bf.jpg
     image_title: Living Doll
     image_description: 23 x 16 inches acrylic on board £725
