@@ -52,7 +52,7 @@ images:
     image_description: H 24 x W 18 inches Acrylic on canvas SOLD
   - image_path: /assets/images/4ec647f28156a.jpg
     image_title: Head Over Feet
-    image_description: H 24 x W 18 inches Acrylic on canvas £475
+    image_description: H 24 x W 18 inches Acrylic on canvas £875
   - image_path: /assets/images/4ec647187bc1f.jpg
     image_title: The Strangest Thing
     image_description: H 24 x W 18 inches Acrylic on canvas £420
