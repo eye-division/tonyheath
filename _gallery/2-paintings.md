@@ -73,7 +73,7 @@ images:
     image_description: H 18 X W 24 inches acrylic on board SOLD
   - image_path: /assets/images/513e147d86f0a.jpg
     image_title: Saratoga Swing
-    image_description: H 32 x  W 20 inches Acrylic on canvas £1200 2012
+    image_description: H 32 x  W 20 inches Acrylic on canvas £2200
   - image_path: /assets/images/513e1982020f6.jpg
     image_title: Crescendo in Blue
     image_description: '32 x  20 inches Acrylic on Canvas   £2,450'
