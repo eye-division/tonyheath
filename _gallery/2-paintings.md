@@ -190,7 +190,7 @@ images:
     image_description: 24 x 20 inches Acrylic on canvas £1170
   - image_path: /assets/images/554ccba149674.jpg
     image_title: Take Five
-    image_description: 24 x 20 inches Acrylic on canvas £585
+    image_description: 24 x 20 inches Acrylic on canvas £985
   - image_path: /assets/images/586559a898e21.jpg
     image_title: Lucille
     image_description: 28 x 20 acrylic on board £1300
