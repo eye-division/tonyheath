@@ -173,6 +173,9 @@ images:
   - image_path: /assets/images/554cc895530b3.jpg
     image_title: Joy Spring
     image_description: 24 x 20 inches Acrylic on canvas £1285
+  - image_path: /assets/images/58655d86169bf.jpg
+    image_title: Living Doll
+    image_description: 23 x 16 inches acrylic on board £725
   - image_path: /assets/images/554cc92e436a4.jpg
     image_title: Aint Misbehavin
     image_description: 24 x 20 inches Acrylic on canvas £775
@@ -191,21 +194,18 @@ images:
   - image_path: /assets/images/554ccba149674.jpg
     image_title: Take Five
     image_description: 24 x 20 inches Acrylic on canvas £985
-  - image_path: /assets/images/586559a898e21.jpg
-    image_title: Lucille
-    image_description: 28 x 20 acrylic on board £1300
   - image_path: /assets/images/58655a2984a89.jpg
     image_title: Somethin Else
     image_description: 28 x 20 inches Acrylic on canvas £885
-  - image_path: /assets/images/58655d86169bf.jpg
-    image_title: Living Doll
-    image_description: 23 x 16 inches acrylic on board £725
-  - image_path: /assets/images/58655e03f397c.jpg
-    image_title: I Miss You
-    image_description: 32 x 30 inches Acrylic on canvas £1750
+  - image_path: /assets/images/586559a898e21.jpg
+    image_title: Lucille
+    image_description: 28 x 20 acrylic on board £1300
   - image_path: /assets/images/586560b53f695.jpg
     image_title: All I Ask
     image_description: '24 x 20 inches acrylic on canvas  1,550'
+  - image_path: /assets/images/58655e03f397c.jpg
+    image_title: I Miss You
+    image_description: 32 x 30 inches Acrylic on canvas £1750
   - image_path: /uploads/sweet-thing.jpg
     image_title: Sweet Thing
     image_description: 'Acrylic on canvas  24 x 20 inches  £1,550'
