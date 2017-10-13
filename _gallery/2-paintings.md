@@ -34,7 +34,7 @@ images:
     image_description: H 24 x W 18 inches Acrylic on canvas £845
   - image_path: /assets/images/4ec644e2c0787.jpg
     image_title: Take it Easy
-    image_description: H 24 x W 18 inches Acrylic on canvas £525
+    image_description: H 24 x W 18 inches Acrylic on canvas £825
   - image_path: /assets/images/4e9467b654b06.jpg
     image_title: The very thought of you
     image_description: H 24 x W 18 inches Acrylic on board SOLD
