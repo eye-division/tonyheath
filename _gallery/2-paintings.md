@@ -38,9 +38,6 @@ images:
   - image_path: /assets/images/554cca2f235f8.jpg
     image_title: I Got Rythm
     image_description: '24 x 20 inches Acrylic on canvas  £1,550'
-  - image_path: /assets/images/4eb4354cb6750.jpg
-    image_title: I can't get no satisfaction
-    image_description: H 24 x W 18 inches acrylic on board SOLD
   - image_path: /assets/images/4e94678c4f2f8.jpg
     image_title: Let me see
     image_description: H 18 X W 24 inches acrylic on board SOLD
