@@ -23,6 +23,9 @@ images:
   - image_path: /assets/images/551d8d9995477.jpg
     image_title: Summertime
     image_description: '32 x 20 inches Acrylic on canvas  2,500'
+  - image_path: /assets/images/5370b4788385e.jpg
+    image_title: Call me the Breeze
+    image_description: '30 x 20 inches Acrylic on canvas  £2,450'
   - image_path: /assets/images/4e946746afddd.jpg
     image_title: Careless Whisper
     image_description: acrylic on board H 24 x W 18 inches SOLD
@@ -68,12 +71,12 @@ images:
   - image_path: /assets/images/551d5836a1874.jpg
     image_title: Dancing in the Moonlight
     image_description: 28 x 20 inches acrylic on board £1575
-  - image_path:
-    image_title: Moon Mist
-    image_description: H 32 x  W 20 inches Acrylic on canvas SOLD
   - image_path: /assets/images/513e1f7c6a569.jpg
     image_title: The Moochie
     image_description: H 20 x W 24 inches Acrylic on canvas SOLD
+  - image_path:
+    image_title: Moon Mist
+    image_description: H 32 x  W 20 inches Acrylic on canvas SOLD
   - image_path: /assets/images/58655e03f397c.jpg
     image_title: I Miss You
     image_description: 32 x 30 inches Acrylic on canvas £1750
@@ -101,9 +104,6 @@ images:
   - image_path: /assets/images/5370b39ae8dc0.jpg
     image_title: Change your Mind
     image_description: 30 x 20 inches Acrylic on canvas SOLD
-  - image_path: /assets/images/5370b4788385e.jpg
-    image_title: Call me the Breeze
-    image_description: '30 x 20 inches Acrylic on canvas  £2,450'
   - image_path: /assets/images/5370c47612770.jpg
     image_title: cool bunny
     image_description: 20 x 24 inches Acrylic on canvas SOLD
