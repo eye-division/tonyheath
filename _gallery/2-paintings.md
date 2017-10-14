@@ -74,9 +74,6 @@ images:
   - image_path:
     image_title: All Cried Out
     image_description: Acrylic on canvas SOLD
-  - image_path: /assets/images/53709a3f2bd28.jpg
-    image_title: Crazy Mama
-    image_description: 30 x 20 inches Acrylic on canvas £875
   - image_path: /assets/images/5370b39ae8dc0.jpg
     image_title: Change your Mind
     image_description: 30 x 20 inches Acrylic on canvas SOLD
