@@ -77,10 +77,7 @@ images:
   - image_path: /assets/images/517007ceea5b5.jpg
     image_title: Maybe
     image_description: 48 X 60 inches Acrylic on canvas SOLD
-  - image_path: /assets/images/517155dd2ae63.jpg
-    image_title: Ride the River
-    image_description: Acrylic on canvas  £775
-  - image_path: /assets/images/517156214a640.jpg
+  - image_path:
     image_title: All Cried Out
     image_description: Acrylic on canvas SOLD
   - image_path: /assets/images/53709a3f2bd28.jpg
