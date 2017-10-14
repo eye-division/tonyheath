@@ -104,9 +104,6 @@ images:
   - image_path: /assets/images/551d5836a1874.jpg
     image_title: Dancing in the Moonlight
     image_description: 28 x 20 inches acrylic on board £1575
-  - image_path: /assets/images/551d58eba127f.jpg
-    image_title: Interlude
-    image_description: 21x14inches acrylic on board £850
   - image_path: /assets/images/551d870be35a9.jpg
     image_title: Sweet Dreams
     image_description: 32 x 20 inches Acrylic on canvas £1950
