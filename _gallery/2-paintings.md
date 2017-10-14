@@ -20,13 +20,7 @@ images:
   - image_path:
     image_title: Take it Easy
     image_description: H 24 x W 18 inches Acrylic on canvas £825
-  - image_path: /assets/images/4e9467b654b06.jpg
-    image_title: The very thought of you
-    image_description: H 24 x W 18 inches Acrylic on board SOLD
   - image_path:
-    image_title: Beautiful Goodbye
-    image_description: H 24 x W 18 inches Acrylic on canvas SOLD
-  - image_path: /assets/images/4ec64602c74a2.jpg
     image_title: Forever Autumn
     image_description: acrylic on board H 24 x W 18 inches SOLD
   - image_path:
