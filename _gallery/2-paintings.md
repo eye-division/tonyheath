@@ -62,6 +62,9 @@ images:
   - image_path: /assets/images/4e94678c4f2f8.jpg
     image_title: Let me see
     image_description: H 18 X W 24 inches acrylic on board SOLD
+  - image_path: /assets/images/58655e03f397c.jpg
+    image_title: I Miss You
+    image_description: 32 x 30 inches Acrylic on canvas £1750
   - image_path: /assets/images/551d8f00b2945.jpg
     image_title: Here Comes the Sun
     image_description: 20 x 32 inches Acrylic on canvas £1200
@@ -83,9 +86,6 @@ images:
   - image_path: /assets/images/551d5836a1874.jpg
     image_title: Dancing in the Moonlight
     image_description: 28 x 20 inches acrylic on board £1575
-  - image_path: /assets/images/58655e03f397c.jpg
-    image_title: I Miss You
-    image_description: 32 x 30 inches Acrylic on canvas £1750
   - image_path: /assets/images/513e208c4f0d8.jpg
     image_title: The Dicty Glide
     image_description: H 32 x  W 20 inches Acrylic on canvas SOLD
