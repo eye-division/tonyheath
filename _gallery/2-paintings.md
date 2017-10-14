@@ -5,12 +5,12 @@ _gallery_date:
 permalink: /paintings-life/
 main_image_path:
 images:
-  - image_path: /assets/images/537098544f721.jpg
-    image_title: Angel Wings
-    image_description: '32ins x 20ins Acrylic on canvas  £2,650'
   - image_path: /uploads/purple-heather-1.jpg
     image_title: Purple Heather
     image_description: 'Acrylic on Canvas  30 x 18 inches  £2,150'
+  - image_path: /assets/images/537098544f721.jpg
+    image_title: Angel Wings
+    image_description: '32ins x 20ins Acrylic on canvas  £2,650'
   - image_path: /assets/images/4e946746afddd.jpg
     image_title: Careless Whisper
     image_description: acrylic on board H 24 x W 18 inches SOLD
@@ -29,6 +29,9 @@ images:
   - image_path: /assets/images/4ec64741bbd37.jpg
     image_title: Walk on By
     image_description: H 24 x W 18 inches acrylic on board SOLD
+  - image_path: /uploads/domino.jpg
+    image_title: Domino
+    image_description: '24 x 18 inches  Acrylic on canvas  £1,550'
   - image_path: /assets/images/4eb4354cb6750.jpg
     image_title: I can't get no satisfaction
     image_description: H 24 x W 18 inches acrylic on board SOLD
@@ -80,9 +83,6 @@ images:
   - image_path: /assets/images/5370b4788385e.jpg
     image_title: Call me the Breeze
     image_description: '30 x 20 inches Acrylic on canvas  £2,450'
-  - image_path: /uploads/domino.jpg
-    image_title: Domino
-    image_description: '24 x 18 inches  Acrylic on canvas  £1,550'
   - image_path: /assets/images/5370c47612770.jpg
     image_title: cool bunny
     image_description: 20 x 24 inches Acrylic on canvas SOLD
