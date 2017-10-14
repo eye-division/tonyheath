@@ -35,15 +35,9 @@ images:
   - image_path: /assets/images/4ec64741bbd37.jpg
     image_title: Walk on By
     image_description: H 24 x W 18 inches acrylic on board SOLD
-  - image_path: /assets/images/4ec6476f87bec.jpg
-    image_title: Easy Does It
-    image_description: H 24 x W 18 inches Acrylic on canvas SOLD
   - image_path: /assets/images/4eb4354cb6750.jpg
     image_title: I can't get no satisfaction
     image_description: H 24 x W 18 inches acrylic on board SOLD
-  - image_path: /assets/images/4eb4357ba05dc.jpg
-    image_title: I say a little prayer
-    image_description: H 24 x W 18 inches Acrylic on canvas SOLD
   - image_path: /assets/images/4e94678c4f2f8.jpg
     image_title: Let me see
     image_description: H 18 X W 24 inches acrylic on board SOLD
