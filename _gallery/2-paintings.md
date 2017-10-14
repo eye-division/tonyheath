@@ -29,10 +29,7 @@ images:
   - image_path: /assets/images/4ec64602c74a2.jpg
     image_title: Forever Autumn
     image_description: acrylic on board H 24 x W 18 inches SOLD
-  - image_path: /assets/images/4e94677e14e04.jpg
-    image_title: September Song
-    image_description: H 24 x W 18 inches Acrylic on canvas SOLD
-  - image_path: /assets/images/4ec647c9d2b59.jpg
+  - image_path:
     image_title: That's just the way it is
     image_description: H 24 x W 18 inches Acrylic on canvas SOLD
   - image_path: /assets/images/4ec647f28156a.jpg
