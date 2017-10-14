@@ -5,6 +5,9 @@ _gallery_date:
 permalink: /drawings-life/
 main_image_path:
 images:
+  - image_path: /assets/images/58668c35a9161.jpg
+    image_title: Pearl's a Singer
+    image_description: compressed charcoal on paper 18 x 14 inches £550
   - image_path: /assets/images/4ec64f1dc9b75.jpg
     image_title: Sunday afternoon
     image_description: 15 x 10 inches  compressed charcoal on paper SOLD
@@ -107,11 +110,11 @@ images:
   - image_path: /assets/images/517042186565a.jpg
     image_title: One of Us
     image_description: compressed charcoal on paper 22 x 18 inches SOLD
-  - image_path: /assets/images/5170425dc9f8b.jpg
-    image_title: I Have a Dream
-    image_description: compressed charcoal on paper 22 x 18 inches SOLD
   - image_path: /assets/images/5170430ba4e86.jpg
     image_title: Sunny Afternoon
+    image_description: compressed charcoal on paper 22 x 18 inches SOLD
+  - image_path: /assets/images/5170425dc9f8b.jpg
+    image_title: I Have a Dream
     image_description: compressed charcoal on paper 22 x 18 inches SOLD
   - image_path: /assets/images/5170439c00b73.jpg
     image_title: Milk Cow Blues
@@ -239,9 +242,6 @@ images:
   - image_path: /assets/images/58668b368db8a.jpg
     image_title: Safari
     image_description: compressed charcoal on paper 20 x 25 inches £375
-  - image_path: /assets/images/58668c35a9161.jpg
-    image_title: Pearl's a Singer
-    image_description: compressed charcoal on paper 18 x 14 inches £550
   - image_path: /assets/images/58668c9840e5f.jpg
     image_title: Dreamboat
     image_description: compressed charcoal on paper 18 x 22 inches £340
