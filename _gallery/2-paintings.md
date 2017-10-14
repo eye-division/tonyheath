@@ -44,9 +44,6 @@ images:
   - image_path: /assets/images/513e147d86f0a.jpg
     image_title: Saratoga Swing
     image_description: H 32 x  W 20 inches Acrylic on canvas £2200
-  - image_path: /assets/images/513e1df70995a.jpg
-    image_title: It Do'nt Mean a Thing
-    image_description: H 24 x W 20 inches Acrylic on canvas SOLD
   - image_path:
     image_title: Moon Mist
     image_description: H 32 x  W 20 inches Acrylic on canvas SOLD
