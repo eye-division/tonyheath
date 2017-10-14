@@ -119,9 +119,6 @@ images:
   - image_path: /assets/images/554cc895530b3.jpg
     image_title: Joy Spring
     image_description: 24 x 20 inches Acrylic on canvas £1285
-  - image_path: /assets/images/554cc92e436a4.jpg
-    image_title: Aint Misbehavin
-    image_description: 24 x 20 inches Acrylic on canvas £775
   - image_path: /assets/images/554ccb2ea3179.jpg
     image_title: Moondance
     image_description: 24 x 20 inches Acrylic on canvas £1170
