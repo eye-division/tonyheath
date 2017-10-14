@@ -20,6 +20,9 @@ images:
   - image_path: /assets/images/4ec64799eb5fb.jpg
     image_title: The First Time
     image_description: acrylic on board H 24 x W 18 inches SOLD
+  - image_path: /assets/images/554cca2f235f8.jpg
+    image_title: I Got Rythm
+    image_description: '24 x 20 inches Acrylic on canvas  £1,550'
   - image_path:
     image_title: Take it Easy
     image_description: H 24 x W 18 inches Acrylic on canvas £825
@@ -41,9 +44,6 @@ images:
   - image_path: /uploads/domino.jpg
     image_title: Domino
     image_description: '24 x 18 inches  Acrylic on canvas  £1,550'
-  - image_path: /assets/images/554cca2f235f8.jpg
-    image_title: I Got Rythm
-    image_description: '24 x 20 inches Acrylic on canvas  £1,550'
   - image_path: /assets/images/586559a898e21.jpg
     image_title: Lucille
     image_description: 28 x 20 acrylic on board £1300
