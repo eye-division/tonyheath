@@ -32,18 +32,21 @@ images:
   - image_path: /uploads/domino.jpg
     image_title: Domino
     image_description: '24 x 18 inches  Acrylic on canvas  £1,550'
+  - image_path: /assets/images/554cca2f235f8.jpg
+    image_title: I Got Rythm
+    image_description: '24 x 20 inches Acrylic on canvas  £1,550'
   - image_path: /assets/images/4eb4354cb6750.jpg
     image_title: I can't get no satisfaction
     image_description: H 24 x W 18 inches acrylic on board SOLD
   - image_path: /assets/images/4e94678c4f2f8.jpg
     image_title: Let me see
     image_description: H 18 X W 24 inches acrylic on board SOLD
-  - image_path: /assets/images/513e147d86f0a.jpg
-    image_title: Saratoga Swing
-    image_description: H 32 x  W 20 inches Acrylic on canvas £2200
   - image_path: /assets/images/513e1982020f6.jpg
     image_title: Crescendo in Blue
     image_description: '32 x  20 inches Acrylic on Canvas   £2,450'
+  - image_path: /assets/images/513e147d86f0a.jpg
+    image_title: Saratoga Swing
+    image_description: H 32 x  W 20 inches Acrylic on canvas £2200
   - image_path: /assets/images/513e1df70995a.jpg
     image_title: It Do'nt Mean a Thing
     image_description: H 24 x W 20 inches Acrylic on canvas SOLD
@@ -116,12 +119,12 @@ images:
   - image_path: /assets/images/551d8d9995477.jpg
     image_title: Summertime
     image_description: '32 x 20 inches Acrylic on canvas  2,500'
-  - image_path: /assets/images/551d8f00b2945.jpg
-    image_title: Here Comes the Sun
-    image_description: 20 x 32 inches Acrylic on canvas £1200
   - image_path: /assets/images/551d8f8cb5c88.jpg
     image_title: Feelin Good
     image_description: '20 x 32 inches Acrylic on canvas  £2,450'
+  - image_path: /assets/images/551d8f00b2945.jpg
+    image_title: Here Comes the Sun
+    image_description: 20 x 32 inches Acrylic on canvas £1200
   - image_path: /assets/images/554cc895530b3.jpg
     image_title: Joy Spring
     image_description: 24 x 20 inches Acrylic on canvas £1285
@@ -131,9 +134,6 @@ images:
   - image_path: /assets/images/554ccb2ea3179.jpg
     image_title: Moondance
     image_description: 24 x 20 inches Acrylic on canvas £1170
-  - image_path: /assets/images/554cca2f235f8.jpg
-    image_title: I Got Rythm
-    image_description: '24 x 20 inches Acrylic on canvas  £1,550'
   - image_path: /assets/images/586559a898e21.jpg
     image_title: Lucille
     image_description: 28 x 20 acrylic on board £1300
