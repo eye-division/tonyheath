@@ -62,6 +62,9 @@ images:
   - image_path: /assets/images/4e94678c4f2f8.jpg
     image_title: Let me see
     image_description: H 18 X W 24 inches acrylic on board SOLD
+  - image_path: /assets/images/551d8f00b2945.jpg
+    image_title: Here Comes the Sun
+    image_description: 20 x 32 inches Acrylic on canvas £1200
   - image_path: /assets/images/513e1982020f6.jpg
     image_title: Crescendo in Blue
     image_description: '32 x  20 inches Acrylic on Canvas   £2,450'
@@ -116,9 +119,6 @@ images:
   - image_path: /assets/images/5370cd486d99f.jpg
     image_title: knock me a kiss
     image_description: 32ins x 20ins Acrylic on canvas SOLD
-  - image_path: /assets/images/551d8f00b2945.jpg
-    image_title: Here Comes the Sun
-    image_description: 20 x 32 inches Acrylic on canvas £1200
   - image_path: /assets/images/554cc895530b3.jpg
     image_title: Joy Spring
     image_description: 24 x 20 inches Acrylic on canvas £1285
