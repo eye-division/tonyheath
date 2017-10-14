@@ -41,6 +41,9 @@ images:
   - image_path: /assets/images/554cca2f235f8.jpg
     image_title: I Got Rythm
     image_description: '24 x 20 inches Acrylic on canvas  £1,550'
+  - image_path: /assets/images/586559a898e21.jpg
+    image_title: Lucille
+    image_description: 28 x 20 acrylic on board £1300
   - image_path: /assets/images/4e94678c4f2f8.jpg
     image_title: Let me see
     image_description: H 18 X W 24 inches acrylic on board SOLD
@@ -113,9 +116,6 @@ images:
   - image_path: /assets/images/554cc895530b3.jpg
     image_title: Joy Spring
     image_description: 24 x 20 inches Acrylic on canvas £1285
-  - image_path: /assets/images/586559a898e21.jpg
-    image_title: Lucille
-    image_description: 28 x 20 acrylic on board £1300
   - image_path: /assets/images/586560b53f695.jpg
     image_title: All I Ask
     image_description: '24 x 20 inches acrylic on canvas  1,550'
