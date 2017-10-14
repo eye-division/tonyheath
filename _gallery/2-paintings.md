@@ -113,9 +113,6 @@ images:
   - image_path: /assets/images/554cc895530b3.jpg
     image_title: Joy Spring
     image_description: 24 x 20 inches Acrylic on canvas £1285
-  - image_path: /assets/images/554ccb2ea3179.jpg
-    image_title: Moondance
-    image_description: 24 x 20 inches Acrylic on canvas £1170
   - image_path: /assets/images/586559a898e21.jpg
     image_title: Lucille
     image_description: 28 x 20 acrylic on board £1300
