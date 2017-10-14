@@ -71,12 +71,12 @@ images:
   - image_path: /assets/images/513e1982020f6.jpg
     image_title: Crescendo in Blue
     image_description: '32 x  20 inches Acrylic on Canvas   £2,450'
-  - image_path: /assets/images/513e147d86f0a.jpg
-    image_title: Saratoga Swing
-    image_description: H 32 x  W 20 inches Acrylic on canvas £2200
   - image_path: /assets/images/554cc895530b3.jpg
     image_title: Joy Spring
     image_description: 24 x 20 inches Acrylic on canvas £1285
+  - image_path: /assets/images/513e147d86f0a.jpg
+    image_title: Saratoga Swing
+    image_description: H 32 x  W 20 inches Acrylic on canvas £2200
   - image_path: /assets/images/513e1f7c6a569.jpg
     image_title: The Moochie
     image_description: H 20 x W 24 inches Acrylic on canvas SOLD
