@@ -83,9 +83,6 @@ images:
   - image_path: /assets/images/5370c47612770.jpg
     image_title: cool bunny
     image_description: 20 x 24 inches Acrylic on canvas SOLD
-  - image_path: /assets/images/5370c4df79fb0.jpg
-    image_title: Closer to You
-    image_description: 20 x 30 inches Acrylic on canvas £700
   - image_path: /assets/images/5370c51b8779b.jpg
     image_title: Day Dreamer
     image_description: 32ins x 20ins Acrylic on canvas £1300
