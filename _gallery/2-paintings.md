@@ -17,9 +17,6 @@ images:
   - image_path: /assets/images/4ec64799eb5fb.jpg
     image_title: The First Time
     image_description: acrylic on board H 24 x W 18 inches SOLD
-  - image_path: /assets/images/4e9467a90af36.jpg
-    image_title: Wake up alone
-    image_description: H 18 X W 24 inches Acrylic on canvas SOLD
   - image_path: /assets/images/4ec6427397264.jpg
     image_title: Yesterday
     image_description: H 24 x W 18 inches Acrylic on canvas £845
