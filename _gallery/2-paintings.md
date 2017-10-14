@@ -80,6 +80,9 @@ images:
   - image_path: /assets/images/5370b4788385e.jpg
     image_title: Call me the Breeze
     image_description: '30 x 20 inches Acrylic on canvas  £2,450'
+  - image_path: /uploads/domino.jpg
+    image_title: Domino
+    image_description: '24 x 18 inches  Acrylic on canvas  £1,550'
   - image_path: /assets/images/5370c47612770.jpg
     image_title: cool bunny
     image_description: 20 x 24 inches Acrylic on canvas SOLD
@@ -89,11 +92,11 @@ images:
   - image_path: /assets/images/5370c55667ae8.jpg
     image_title: You go to my Head
     image_description: 32ins x 20ins £925
-  - image_path: /assets/images/5370cd486d99f.jpg
-    image_title: knock me a kiss
-    image_description: 32ins x 20ins Acrylic on canvas SOLD
   - image_path: /assets/images/5370cda3a13c4.jpg
     image_title: First Love
+    image_description: 32ins x 20ins Acrylic on canvas SOLD
+  - image_path: /assets/images/5370cd486d99f.jpg
+    image_title: knock me a kiss
     image_description: 32ins x 20ins Acrylic on canvas SOLD
   - image_path: /assets/images/551d54dbdc8fd.jpg
     image_title: So What
@@ -122,12 +125,12 @@ images:
   - image_path: /assets/images/554cc92e436a4.jpg
     image_title: Aint Misbehavin
     image_description: 24 x 20 inches Acrylic on canvas £775
-  - image_path: /assets/images/554cca2f235f8.jpg
-    image_title: I Got Rythm
-    image_description: '24 x 20 inches Acrylic on canvas  £1,550'
   - image_path: /assets/images/554ccb2ea3179.jpg
     image_title: Moondance
     image_description: 24 x 20 inches Acrylic on canvas £1170
+  - image_path: /assets/images/554cca2f235f8.jpg
+    image_title: I Got Rythm
+    image_description: '24 x 20 inches Acrylic on canvas  £1,550'
   - image_path: /assets/images/586559a898e21.jpg
     image_title: Lucille
     image_description: 28 x 20 acrylic on board £1300
@@ -140,9 +143,6 @@ images:
   - image_path: /uploads/sweet-thing.jpg
     image_title: Sweet Thing
     image_description: 'Acrylic on canvas  24 x 20 inches  £1,550'
-  - image_path: /uploads/domino.jpg
-    image_title: Domino
-    image_description: '24 x 18 inches  Acrylic on canvas  £1,550'
 _options:
   image_path:
     width: 1200
