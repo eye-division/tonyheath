@@ -71,15 +71,18 @@ images:
   - image_path: /assets/images/513e147d86f0a.jpg
     image_title: Saratoga Swing
     image_description: H 32 x  W 20 inches Acrylic on canvas £2200
-  - image_path: /assets/images/551d5836a1874.jpg
-    image_title: Dancing in the Moonlight
-    image_description: 28 x 20 inches acrylic on board £1575
+  - image_path: /assets/images/554cc895530b3.jpg
+    image_title: Joy Spring
+    image_description: 24 x 20 inches Acrylic on canvas £1285
   - image_path: /assets/images/513e1f7c6a569.jpg
     image_title: The Moochie
     image_description: H 20 x W 24 inches Acrylic on canvas SOLD
   - image_path:
     image_title: Moon Mist
     image_description: H 32 x  W 20 inches Acrylic on canvas SOLD
+  - image_path: /assets/images/551d5836a1874.jpg
+    image_title: Dancing in the Moonlight
+    image_description: 28 x 20 inches acrylic on board £1575
   - image_path: /assets/images/58655e03f397c.jpg
     image_title: I Miss You
     image_description: 32 x 30 inches Acrylic on canvas £1750
@@ -95,12 +98,12 @@ images:
   - image_path: /assets/images/5170007764eb4.jpg
     image_title: String of Pearls
     image_description: 40x32 inches Acrylic on canvas SOLD
-  - image_path: /assets/images/517001dee56cd.jpg
-    image_title: Since U Been Gone
-    image_description: 24 x 16 inches Acrylic on canvas SOLD
   - image_path: /assets/images/517007ceea5b5.jpg
     image_title: Maybe
     image_description: 48 X 60 inches Acrylic on canvas SOLD
+  - image_path: /assets/images/517001dee56cd.jpg
+    image_title: Since U Been Gone
+    image_description: 24 x 16 inches Acrylic on canvas SOLD
   - image_path:
     image_title: All Cried Out
     image_description: Acrylic on canvas SOLD
@@ -119,9 +122,6 @@ images:
   - image_path: /assets/images/5370cd486d99f.jpg
     image_title: knock me a kiss
     image_description: 32ins x 20ins Acrylic on canvas SOLD
-  - image_path: /assets/images/554cc895530b3.jpg
-    image_title: Joy Spring
-    image_description: 24 x 20 inches Acrylic on canvas £1285
 _options:
   image_path:
     width: 1200
