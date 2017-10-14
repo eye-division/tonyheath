@@ -32,6 +32,9 @@ images:
   - image_path:
     image_title: That's just the way it is
     image_description: H 24 x W 18 inches Acrylic on canvas SOLD
+  - image_path: /assets/images/551d870be35a9.jpg
+    image_title: Sweet Dreams
+    image_description: 32 x 20 inches Acrylic on canvas £1950
   - image_path: /uploads/domino.jpg
     image_title: Domino
     image_description: '24 x 18 inches  Acrylic on canvas  £1,550'
@@ -104,9 +107,6 @@ images:
   - image_path: /assets/images/551d8f8cb5c88.jpg
     image_title: Feelin Good
     image_description: '20 x 32 inches Acrylic on canvas  £2,450'
-  - image_path: /assets/images/551d870be35a9.jpg
-    image_title: Sweet Dreams
-    image_description: 32 x 20 inches Acrylic on canvas £1950
   - image_path: /assets/images/551d8f00b2945.jpg
     image_title: Here Comes the Sun
     image_description: 20 x 32 inches Acrylic on canvas £1200
