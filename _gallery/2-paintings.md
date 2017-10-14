@@ -77,12 +77,12 @@ images:
   - image_path: /assets/images/513e147d86f0a.jpg
     image_title: Saratoga Swing
     image_description: H 32 x  W 20 inches Acrylic on canvas £2200
-  - image_path: /assets/images/513e1f7c6a569.jpg
-    image_title: The Moochie
-    image_description: H 20 x W 24 inches Acrylic on canvas SOLD
   - image_path:
     image_title: Moon Mist
     image_description: H 32 x  W 20 inches Acrylic on canvas SOLD
+  - image_path: /assets/images/513e1f7c6a569.jpg
+    image_title: The Moochie
+    image_description: H 20 x W 24 inches Acrylic on canvas SOLD
   - image_path: /assets/images/551d5836a1874.jpg
     image_title: Dancing in the Moonlight
     image_description: 28 x 20 inches acrylic on board £1575
