@@ -14,6 +14,9 @@ images:
   - image_path: /assets/images/537098544f721.jpg
     image_title: Angel Wings
     image_description: '32ins x 20ins Acrylic on canvas  £2,650'
+  - image_path: /assets/images/551d8f8cb5c88.jpg
+    image_title: Feelin Good
+    image_description: '20 x 32 inches Acrylic on canvas  £2,450'
   - image_path: /assets/images/4e946746afddd.jpg
     image_title: Careless Whisper
     image_description: acrylic on board H 24 x W 18 inches SOLD
@@ -110,9 +113,6 @@ images:
   - image_path: /assets/images/5370cd486d99f.jpg
     image_title: knock me a kiss
     image_description: 32ins x 20ins Acrylic on canvas SOLD
-  - image_path: /assets/images/551d8f8cb5c88.jpg
-    image_title: Feelin Good
-    image_description: '20 x 32 inches Acrylic on canvas  £2,450'
   - image_path: /assets/images/551d8f00b2945.jpg
     image_title: Here Comes the Sun
     image_description: 20 x 32 inches Acrylic on canvas £1200
