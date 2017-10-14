@@ -26,6 +26,9 @@ images:
   - image_path:
     image_title: Forever Autumn
     image_description: acrylic on board H 24 x W 18 inches SOLD
+  - image_path: /assets/images/551d8d9995477.jpg
+    image_title: Summertime
+    image_description: '32 x 20 inches Acrylic on canvas  2,500'
   - image_path:
     image_title: That's just the way it is
     image_description: H 24 x W 18 inches Acrylic on canvas SOLD
@@ -95,21 +98,18 @@ images:
   - image_path: /assets/images/5370cda3a13c4.jpg
     image_title: First Love
     image_description: 32ins x 20ins Acrylic on canvas SOLD
-  - image_path: /assets/images/5370cd486d99f.jpg
-    image_title: knock me a kiss
-    image_description: 32ins x 20ins Acrylic on canvas SOLD
   - image_path: /assets/images/551d5836a1874.jpg
     image_title: Dancing in the Moonlight
     image_description: 28 x 20 inches acrylic on board £1575
-  - image_path: /assets/images/551d870be35a9.jpg
-    image_title: Sweet Dreams
-    image_description: 32 x 20 inches Acrylic on canvas £1950
-  - image_path: /assets/images/551d8d9995477.jpg
-    image_title: Summertime
-    image_description: '32 x 20 inches Acrylic on canvas  2,500'
+  - image_path: /assets/images/5370cd486d99f.jpg
+    image_title: knock me a kiss
+    image_description: 32ins x 20ins Acrylic on canvas SOLD
   - image_path: /assets/images/551d8f8cb5c88.jpg
     image_title: Feelin Good
     image_description: '20 x 32 inches Acrylic on canvas  £2,450'
+  - image_path: /assets/images/551d870be35a9.jpg
+    image_title: Sweet Dreams
+    image_description: 32 x 20 inches Acrylic on canvas £1950
   - image_path: /assets/images/551d8f00b2945.jpg
     image_title: Here Comes the Sun
     image_description: 20 x 32 inches Acrylic on canvas £1200
