@@ -56,6 +56,9 @@ images:
   - image_path: /assets/images/513e201ad2686.jpg
     image_title: Misty Morning
     image_description: H 32 x  W 20 inches Acrylic on canvas SOLD
+  - image_path: /assets/images/58655e03f397c.jpg
+    image_title: I Miss You
+    image_description: 32 x 30 inches Acrylic on canvas £1750
   - image_path: /assets/images/513e208c4f0d8.jpg
     image_title: The Dicty Glide
     image_description: H 32 x  W 20 inches Acrylic on canvas SOLD
@@ -137,9 +140,6 @@ images:
   - image_path: /assets/images/586560b53f695.jpg
     image_title: All I Ask
     image_description: '24 x 20 inches acrylic on canvas  1,550'
-  - image_path: /assets/images/58655e03f397c.jpg
-    image_title: I Miss You
-    image_description: 32 x 30 inches Acrylic on canvas £1750
   - image_path: /uploads/sweet-thing.jpg
     image_title: Sweet Thing
     image_description: 'Acrylic on canvas  24 x 20 inches  £1,550'
