@@ -5,6 +5,9 @@ _gallery_date:
 permalink: /paintings-life/
 main_image_path:
 images:
+  - image_path: /assets/images/551d8d342cd95.jpg
+    image_title: All of Me
+    image_description: '32 x 20 inches Acrylic on canvas £2,450'
   - image_path: /uploads/purple-heather-1.jpg
     image_title: Purple Heather
     image_description: 'Acrylic on Canvas  30 x 18 inches  £2,150'
@@ -101,9 +104,6 @@ images:
   - image_path: /assets/images/551d870be35a9.jpg
     image_title: Sweet Dreams
     image_description: 32 x 20 inches Acrylic on canvas £1950
-  - image_path: /assets/images/551d8d342cd95.jpg
-    image_title: All of Me
-    image_description: '32 x 20 inches Acrylic on canvas £2,450'
   - image_path: /assets/images/551d8d9995477.jpg
     image_title: Summertime
     image_description: '32 x 20 inches Acrylic on canvas  2,500'
