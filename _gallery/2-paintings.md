@@ -128,9 +128,6 @@ images:
   - image_path: /assets/images/554ccb2ea3179.jpg
     image_title: Moondance
     image_description: 24 x 20 inches Acrylic on canvas £1170
-  - image_path: /assets/images/554ccba149674.jpg
-    image_title: Take Five
-    image_description: 24 x 20 inches Acrylic on canvas £985
   - image_path: /assets/images/58655a2984a89.jpg
     image_title: Somethin Else
     image_description: 28 x 20 inches Acrylic on canvas £885
