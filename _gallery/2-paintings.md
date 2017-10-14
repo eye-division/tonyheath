@@ -116,9 +116,6 @@ images:
   - image_path: /assets/images/551d8f8cb5c88.jpg
     image_title: Feelin Good
     image_description: '20 x 32 inches Acrylic on canvas  £2,450'
-  - image_path: /assets/images/58655d86169bf.jpg
-    image_title: Living Doll
-    image_description: 23 x 16 inches acrylic on board £725
   - image_path: /assets/images/554cc895530b3.jpg
     image_title: Joy Spring
     image_description: 24 x 20 inches Acrylic on canvas £1285
