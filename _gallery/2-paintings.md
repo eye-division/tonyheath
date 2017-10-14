@@ -53,9 +53,6 @@ images:
   - image_path: /assets/images/513e1f7c6a569.jpg
     image_title: The Moochie
     image_description: H 20 x W 24 inches Acrylic on canvas SOLD
-  - image_path: /assets/images/513e201ad2686.jpg
-    image_title: Misty Morning
-    image_description: H 32 x  W 20 inches Acrylic on canvas SOLD
   - image_path: /assets/images/58655e03f397c.jpg
     image_title: I Miss You
     image_description: 32 x 30 inches Acrylic on canvas £1750
