@@ -5,6 +5,9 @@ _gallery_date:
 permalink: /drawings-life/
 main_image_path:
 images:
+  - image_path: /assets/images/551e61529ce04.jpg
+    image_title: Stand By Me
+    image_description: compressed charcoal on paper 22ins x 18ins £520
   - image_path: /assets/images/58668c35a9161.jpg
     image_title: Pearl's a Singer
     image_description: compressed charcoal on paper 18 x 14 inches £550
@@ -173,9 +176,6 @@ images:
   - image_path: /assets/images/551da874064c7.jpg
     image_title: Take the A Train
     image_description: 22ins x 18ins compressed charcoal on paper £315
-  - image_path: /assets/images/551e61529ce04.jpg
-    image_title: Stand By Me
-    image_description: compressed charcoal on paper 22ins x 18ins £520
   - image_path: /assets/images/551e61b07c246.jpg
     image_title: Cloud Nine
     image_description: compressed charcoal on paper 18 x 22 inches £310
