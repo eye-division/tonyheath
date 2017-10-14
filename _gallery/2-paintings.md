@@ -44,12 +44,15 @@ images:
   - image_path: /uploads/sweet-thing.jpg
     image_title: Sweet Thing
     image_description: 'Acrylic on canvas  24 x 20 inches  £1,550'
-  - image_path:
-    image_title: That's just the way it is
-    image_description: H 24 x W 18 inches Acrylic on canvas SOLD
+  - image_path: /assets/images/58655e03f397c.jpg
+    image_title: I Miss You
+    image_description: 32 x 30 inches Acrylic on canvas £1750
   - image_path: /assets/images/586560b53f695.jpg
     image_title: All I Ask
     image_description: '24 x 20 inches acrylic on canvas  1,550'
+  - image_path:
+    image_title: That's just the way it is
+    image_description: H 24 x W 18 inches Acrylic on canvas SOLD
   - image_path: /assets/images/551d870be35a9.jpg
     image_title: Sweet Dreams
     image_description: 32 x 20 inches Acrylic on canvas £1950
@@ -68,9 +71,6 @@ images:
   - image_path: /assets/images/513e1982020f6.jpg
     image_title: Crescendo in Blue
     image_description: '32 x  20 inches Acrylic on Canvas   £2,450'
-  - image_path: /assets/images/58655e03f397c.jpg
-    image_title: I Miss You
-    image_description: 32 x 30 inches Acrylic on canvas £1750
   - image_path: /assets/images/513e147d86f0a.jpg
     image_title: Saratoga Swing
     image_description: H 32 x  W 20 inches Acrylic on canvas £2200
