@@ -5,6 +5,9 @@ _gallery_date:
 permalink: /drawings-life/
 main_image_path:
 images:
+  - image_path: /assets/images/551e6adde84e0.jpg
+    image_title: Harvest Moon
+    image_description: compressed charcoal on paper 14 x 18 inches £520
   - image_path: /assets/images/551e61529ce04.jpg
     image_title: Stand By Me
     image_description: compressed charcoal on paper 22ins x 18ins £520
@@ -185,9 +188,6 @@ images:
   - image_path: /assets/images/551e6267bae85.jpg
     image_title: Misty
     image_description: compressed charcoal on paper 18 x 14 inches £375
-  - image_path: /assets/images/551e62b538e4b.jpg
-    image_title: April in Paris
-    image_description: compressed charcoal on paper 18 x 14 inches £380
   - image_path: /assets/images/551e631c64760.jpg
     image_title: Candle in the Wind
     image_description: 18 x 14 inches compressed charcoal on paper £480
@@ -209,12 +209,6 @@ images:
   - image_path: /assets/images/551e6a384f18b.jpg
     image_title: Moonglow
     image_description: 18 x 14 inches compressed charcoal on paper SOLD
-  - image_path: /assets/images/551e6a93d71db.jpg
-    image_title: Night and Day
-    image_description: compressed charcoal on paper 18 x 14 inches £570
-  - image_path: /assets/images/551e6adde84e0.jpg
-    image_title: Harvest Moon
-    image_description: compressed charcoal on paper 14 x 18 inches £520
   - image_path: /assets/images/551e6b3b1b206.jpg
     image_title: Pennies  from Heaven
     image_description: compressed charcoal on paper 17 x 14 ins £465
@@ -224,6 +218,9 @@ images:
   - image_path: /assets/images/554cc40eb166d.jpg
     image_title: It Had to be You
     image_description: compressed charcoal on paper 22ins x 18ins £450
+  - image_path: /assets/images/551e62b538e4b.jpg
+    image_title: April in Paris
+    image_description: compressed charcoal on paper 18 x 14 inches £380
   - image_path: /assets/images/554cc51b32493.jpg
     image_title: Aint No Sunshine
     image_description: 22 x 18 inches compressed charcoal on paper £375
@@ -245,6 +242,9 @@ images:
   - image_path: /assets/images/58668c9840e5f.jpg
     image_title: Dreamboat
     image_description: compressed charcoal on paper 18 x 22 inches £340
+  - image_path: /assets/images/551e6a93d71db.jpg
+    image_title: Night and Day
+    image_description: compressed charcoal on paper 18 x 14 inches £570
   - image_path: /assets/images/58668cfec53f3.jpg
     image_title: Lilac Wine
     image_description: compressed charcoal on paper 18 x 22 inches £395
