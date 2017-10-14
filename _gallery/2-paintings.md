@@ -128,9 +128,6 @@ images:
   - image_path: /assets/images/554cca2f235f8.jpg
     image_title: I Got Rythm
     image_description: '24 x 20 inches Acrylic on canvas  £1,550'
-  - image_path: /assets/images/554ccab2d59bb.jpg
-    image_title: In the Mood
-    image_description: 24 x 20 inches Acrylic on canvas £1225
   - image_path: /assets/images/554ccb2ea3179.jpg
     image_title: Moondance
     image_description: 24 x 20 inches Acrylic on canvas £1170
