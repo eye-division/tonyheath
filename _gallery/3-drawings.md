@@ -14,6 +14,9 @@ images:
   - image_path: /assets/images/551e631c64760.jpg
     image_title: Candle in the Wind
     image_description: 18 x 14 inches compressed charcoal on paper £480
+  - image_path: /assets/images/554cc671dca77.jpg
+    image_title: Beautiful Love
+    image_description: compressed charcoal on paper 18 x 22 inches £390
   - image_path: /assets/images/551e61529ce04.jpg
     image_title: Stand By Me
     image_description: compressed charcoal on paper 22ins x 18ins £520
@@ -227,9 +230,6 @@ images:
   - image_path: /assets/images/554cc5d72aee8.jpg
     image_title: Hello Dolly
     image_description: compressed charcoal on paper 22 x 18 inches £295
-  - image_path: /assets/images/554cc671dca77.jpg
-    image_title: Beautiful Love
-    image_description: compressed charcoal on paper 18 x 22 inches £390
   - image_path: /assets/images/554cc75a7a8ef.jpg
     image_title: Cry Me a River
     image_description: compressed charcoal on paper 17 x 14 ins SOLD
