@@ -65,12 +65,12 @@ images:
   - image_path: /assets/images/551d8f00b2945.jpg
     image_title: Here Comes the Sun
     image_description: 20 x 32 inches Acrylic on canvas £1200
-  - image_path: /assets/images/58655e03f397c.jpg
-    image_title: I Miss You
-    image_description: 32 x 30 inches Acrylic on canvas £1750
   - image_path: /assets/images/513e1982020f6.jpg
     image_title: Crescendo in Blue
     image_description: '32 x  20 inches Acrylic on Canvas   £2,450'
+  - image_path: /assets/images/58655e03f397c.jpg
+    image_title: I Miss You
+    image_description: 32 x 30 inches Acrylic on canvas £1750
   - image_path: /assets/images/513e147d86f0a.jpg
     image_title: Saratoga Swing
     image_description: H 32 x  W 20 inches Acrylic on canvas £2200
