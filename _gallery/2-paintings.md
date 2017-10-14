@@ -125,9 +125,6 @@ images:
   - image_path: /assets/images/554cc92e436a4.jpg
     image_title: Aint Misbehavin
     image_description: 24 x 20 inches Acrylic on canvas £775
-  - image_path: /assets/images/554cc99f13187.jpg
-    image_title: All I Want
-    image_description: 24 x 20 inches compressed charcoal on paper
   - image_path: /assets/images/554cca2f235f8.jpg
     image_title: I Got Rythm
     image_description: '24 x 20 inches Acrylic on canvas  £1,550'
