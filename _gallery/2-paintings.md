@@ -17,6 +17,12 @@ images:
   - image_path: /assets/images/551d8f8cb5c88.jpg
     image_title: Feelin Good
     image_description: '20 x 32 inches Acrylic on canvas  £2,450'
+  - image_path: /assets/images/5370c51b8779b.jpg
+    image_title: Day Dreamer
+    image_description: 32ins x 20ins Acrylic on canvas £1300
+  - image_path: /assets/images/551d8d9995477.jpg
+    image_title: Summertime
+    image_description: '32 x 20 inches Acrylic on canvas  2,500'
   - image_path: /assets/images/4e946746afddd.jpg
     image_title: Careless Whisper
     image_description: acrylic on board H 24 x W 18 inches SOLD
@@ -32,9 +38,6 @@ images:
   - image_path:
     image_title: Forever Autumn
     image_description: acrylic on board H 24 x W 18 inches SOLD
-  - image_path: /assets/images/551d8d9995477.jpg
-    image_title: Summertime
-    image_description: '32 x 20 inches Acrylic on canvas  2,500'
   - image_path: /uploads/sweet-thing.jpg
     image_title: Sweet Thing
     image_description: 'Acrylic on canvas  24 x 20 inches  £1,550'
@@ -104,9 +107,6 @@ images:
   - image_path: /assets/images/5370c47612770.jpg
     image_title: cool bunny
     image_description: 20 x 24 inches Acrylic on canvas SOLD
-  - image_path: /assets/images/5370c51b8779b.jpg
-    image_title: Day Dreamer
-    image_description: 32ins x 20ins Acrylic on canvas £1300
   - image_path: /assets/images/5370c55667ae8.jpg
     image_title: You go to my Head
     image_description: 32ins x 20ins £925
