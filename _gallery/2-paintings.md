@@ -95,9 +95,6 @@ images:
   - image_path: /assets/images/5370cd486d99f.jpg
     image_title: knock me a kiss
     image_description: 32ins x 20ins Acrylic on canvas SOLD
-  - image_path: /assets/images/551d54dbdc8fd.jpg
-    image_title: So What
-    image_description: 70cmx50cm acrylic on board SOLD
   - image_path: /assets/images/551d5836a1874.jpg
     image_title: Dancing in the Moonlight
     image_description: 28 x 20 inches acrylic on board £1575
