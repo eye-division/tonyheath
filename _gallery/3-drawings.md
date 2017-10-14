@@ -8,6 +8,9 @@ images:
   - image_path: /assets/images/551e6adde84e0.jpg
     image_title: Harvest Moon
     image_description: compressed charcoal on paper 14 x 18 inches £520
+  - image_path: /assets/images/551e6b3b1b206.jpg
+    image_title: Pennies  from Heaven
+    image_description: compressed charcoal on paper 17 x 14 ins £465
   - image_path: /assets/images/551e61529ce04.jpg
     image_title: Stand By Me
     image_description: compressed charcoal on paper 22ins x 18ins £520
@@ -209,9 +212,6 @@ images:
   - image_path: /assets/images/551e6a384f18b.jpg
     image_title: Moonglow
     image_description: 18 x 14 inches compressed charcoal on paper SOLD
-  - image_path: /assets/images/551e6b3b1b206.jpg
-    image_title: Pennies  from Heaven
-    image_description: compressed charcoal on paper 17 x 14 ins £465
   - image_path: /assets/images/551e6b9c78a96.jpg
     image_title: Stolen Moments
     image_description: compressed charcoal on paper 14 x 11 ins SOLD
