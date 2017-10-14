@@ -95,9 +95,6 @@ images:
   - image_path: /assets/images/5370cda3a13c4.jpg
     image_title: First Love
     image_description: 32ins x 20ins Acrylic on canvas SOLD
-  - image_path: /assets/images/5370ced3872d3.jpg
-    image_title: Listen to the Dawn
-    image_description: 32ins x 20ins Acrylic on canvas £675
   - image_path: /assets/images/551d54dbdc8fd.jpg
     image_title: So What
     image_description: 70cmx50cm acrylic on board SOLD
