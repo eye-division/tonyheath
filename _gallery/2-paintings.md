@@ -128,9 +128,6 @@ images:
   - image_path: /assets/images/554ccb2ea3179.jpg
     image_title: Moondance
     image_description: 24 x 20 inches Acrylic on canvas £1170
-  - image_path: /assets/images/58655a2984a89.jpg
-    image_title: Somethin Else
-    image_description: 28 x 20 inches Acrylic on canvas £885
   - image_path: /assets/images/586559a898e21.jpg
     image_title: Lucille
     image_description: 28 x 20 acrylic on board £1300
