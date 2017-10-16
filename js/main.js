@@ -40,7 +40,7 @@
       directionNav: true,
       slideshowSpeed: 5000,
       animationSpeed: 600,
-      touch: true
+       touch: true
     });
 
   }); // end doc ready
