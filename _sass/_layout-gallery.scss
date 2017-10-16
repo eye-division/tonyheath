@@ -1,11 +1,11 @@
 // Gallery layout
 // this is imported last from /css/main.scss
 
-/*
-* Gallery
- */
 .gallery {
 
+    display: flex;
+    align-items: flex-end;
+    flex-wrap: wrap;
 
     @include media ($tablet) {
         @include outer-container;
@@ -61,16 +61,23 @@
         @include omega();
     }
 }
-/*
- * Lightbox
- */
+
+/// Lightbox2
+.lightbox .lb-image {
+    border: 0;
+}
 
 .lb-dataContainer {
     background: $white;
-    padding: 1em
+    padding: 1em;
+    width: 90%;
 }
-/// lightbox
-///
+
+
+/// defaults
 .lb-data {
-    color: $dark-gray;
+  //padding: 0 4px;
+  color: $dark-gray;
 }
+
+
