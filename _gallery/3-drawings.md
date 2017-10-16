@@ -5,6 +5,24 @@ _gallery_date:
 permalink: /drawings-life/
 main_image_path:
 images:
+  - image_path: /assets/images/551e6adde84e0.jpg
+    image_title: Harvest Moon
+    image_description: compressed charcoal on paper 14 x 18 inches £520
+  - image_path: /assets/images/551e6b3b1b206.jpg
+    image_title: Pennies  from Heaven
+    image_description: compressed charcoal on paper 17 x 14 ins £465
+  - image_path: /assets/images/551e631c64760.jpg
+    image_title: Candle in the Wind
+    image_description: 18 x 14 inches compressed charcoal on paper £480
+  - image_path: /assets/images/554cc671dca77.jpg
+    image_title: Beautiful Love
+    image_description: compressed charcoal on paper 18 x 22 inches £390
+  - image_path: /assets/images/551e61529ce04.jpg
+    image_title: Stand By Me
+    image_description: compressed charcoal on paper 22ins x 18ins £520
+  - image_path: /assets/images/58668c35a9161.jpg
+    image_title: Pearl's a Singer
+    image_description: compressed charcoal on paper 18 x 14 inches £550
   - image_path: /assets/images/4ec64f1dc9b75.jpg
     image_title: Sunday afternoon
     image_description: 15 x 10 inches  compressed charcoal on paper SOLD
@@ -80,12 +98,12 @@ images:
   - image_path: /assets/images/516194ba23bfc.jpg
     image_title: If Not for You
     image_description: 14 x 18 inches 2013 compressed charcoal on paper SOLD
-  - image_path: /assets/images/5161959a68203.jpg
-    image_title: Thank You for the Music
-    image_description: compressed charcoal on paper 22 x 18 inches £380
   - image_path: /assets/images/5161960a3979c.jpg
     image_title: Hold On
     image_description: compressed charcoal on paper 18 x 14 inches SOLD
+  - image_path: /assets/images/5161959a68203.jpg
+    image_title: Thank You for the Music
+    image_description: compressed charcoal on paper 22 x 18 inches £380
   - image_path: /assets/images/5161965068d32.jpg
     image_title: No Reason
     image_description: compressed charcoal on paper 22 x 18 inches SOLD
@@ -107,11 +125,11 @@ images:
   - image_path: /assets/images/517042186565a.jpg
     image_title: One of Us
     image_description: compressed charcoal on paper 22 x 18 inches SOLD
-  - image_path: /assets/images/5170425dc9f8b.jpg
-    image_title: I Have a Dream
-    image_description: compressed charcoal on paper 22 x 18 inches SOLD
   - image_path: /assets/images/5170430ba4e86.jpg
     image_title: Sunny Afternoon
+    image_description: compressed charcoal on paper 22 x 18 inches SOLD
+  - image_path: /assets/images/5170425dc9f8b.jpg
+    image_title: I Have a Dream
     image_description: compressed charcoal on paper 22 x 18 inches SOLD
   - image_path: /assets/images/5170439c00b73.jpg
     image_title: Milk Cow Blues
@@ -170,9 +188,6 @@ images:
   - image_path: /assets/images/551da874064c7.jpg
     image_title: Take the A Train
     image_description: 22ins x 18ins compressed charcoal on paper £315
-  - image_path: /assets/images/551e61529ce04.jpg
-    image_title: Stand By Me
-    image_description: compressed charcoal on paper 22ins x 18ins £520
   - image_path: /assets/images/551e61b07c246.jpg
     image_title: Cloud Nine
     image_description: compressed charcoal on paper 18 x 22 inches £310
@@ -182,12 +197,6 @@ images:
   - image_path: /assets/images/551e6267bae85.jpg
     image_title: Misty
     image_description: compressed charcoal on paper 18 x 14 inches £375
-  - image_path: /assets/images/551e62b538e4b.jpg
-    image_title: April in Paris
-    image_description: compressed charcoal on paper 18 x 14 inches £380
-  - image_path: /assets/images/551e631c64760.jpg
-    image_title: Candle in the Wind
-    image_description: 18 x 14 inches compressed charcoal on paper £480
   - image_path: /assets/images/551e635da0623.jpg
     image_title: Satin Doll
     image_description: compressed charcoal on paper 18 x 14 inches SOLD
@@ -206,30 +215,21 @@ images:
   - image_path: /assets/images/551e6a384f18b.jpg
     image_title: Moonglow
     image_description: 18 x 14 inches compressed charcoal on paper SOLD
-  - image_path: /assets/images/551e6a93d71db.jpg
-    image_title: Night and Day
-    image_description: compressed charcoal on paper 18 x 14 inches £570
-  - image_path: /assets/images/551e6adde84e0.jpg
-    image_title: Harvest Moon
-    image_description: compressed charcoal on paper 14 x 18 inches £520
-  - image_path: /assets/images/551e6b3b1b206.jpg
-    image_title: Pennies  from Heaven
-    image_description: compressed charcoal on paper 17 x 14 ins £465
   - image_path: /assets/images/551e6b9c78a96.jpg
     image_title: Stolen Moments
     image_description: compressed charcoal on paper 14 x 11 ins SOLD
   - image_path: /assets/images/554cc40eb166d.jpg
     image_title: It Had to be You
     image_description: compressed charcoal on paper 22ins x 18ins £450
+  - image_path: /assets/images/551e62b538e4b.jpg
+    image_title: April in Paris
+    image_description: compressed charcoal on paper 18 x 14 inches £380
   - image_path: /assets/images/554cc51b32493.jpg
     image_title: Aint No Sunshine
     image_description: 22 x 18 inches compressed charcoal on paper £375
   - image_path: /assets/images/554cc5d72aee8.jpg
     image_title: Hello Dolly
     image_description: compressed charcoal on paper 22 x 18 inches £295
-  - image_path: /assets/images/554cc671dca77.jpg
-    image_title: Beautiful Love
-    image_description: compressed charcoal on paper 18 x 22 inches £390
   - image_path: /assets/images/554cc75a7a8ef.jpg
     image_title: Cry Me a River
     image_description: compressed charcoal on paper 17 x 14 ins SOLD
@@ -239,12 +239,12 @@ images:
   - image_path: /assets/images/58668b368db8a.jpg
     image_title: Safari
     image_description: compressed charcoal on paper 20 x 25 inches £375
-  - image_path: /assets/images/58668c35a9161.jpg
-    image_title: Pearl's a Singer
-    image_description: compressed charcoal on paper 18 x 14 inches £550
   - image_path: /assets/images/58668c9840e5f.jpg
     image_title: Dreamboat
     image_description: compressed charcoal on paper 18 x 22 inches £340
+  - image_path: /assets/images/551e6a93d71db.jpg
+    image_title: Night and Day
+    image_description: compressed charcoal on paper 18 x 14 inches £570
   - image_path: /assets/images/58668cfec53f3.jpg
     image_title: Lilac Wine
     image_description: compressed charcoal on paper 18 x 22 inches £395
