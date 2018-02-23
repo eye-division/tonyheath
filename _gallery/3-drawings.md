@@ -115,7 +115,7 @@ images:
     image_description: compressed charcoal on paper 18 x 14 inches SOLD 2013
   - image_path: /assets/images/51702675dbd47.jpg
     image_title: Travelin Light
-    image_description: 22 x 18 inches  compressed charcoal on paper £385
+    image_description: 22 x 18 inches  compressed charcoal on paper £435
   - image_path: /assets/images/5170414ae11f8.jpg
     image_title: Go Your Own Way
     image_description: compressed charcoal on paper 22 x 18 inches SOLD
