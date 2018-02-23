@@ -5,12 +5,12 @@ _gallery_date:
 permalink: /drawings-life/
 main_image_path:
 images:
-  - image_path: /assets/images/551e6adde84e0.jpg
-    image_title: Harvest Moon
-    image_description: compressed charcoal on paper 14 x 18 inches £520
   - image_path: /assets/images/551e6b3b1b206.jpg
     image_title: Pennies  from Heaven
     image_description: compressed charcoal on paper 17 x 14 ins £465
+  - image_path: /assets/images/551e6adde84e0.jpg
+    image_title: Harvest Moon
+    image_description: compressed charcoal on paper 14 x 18 inches £520
   - image_path: /assets/images/551e631c64760.jpg
     image_title: Candle in the Wind
     image_description: 18 x 14 inches compressed charcoal on paper £480
@@ -64,7 +64,7 @@ images:
     image_description: H 18 x W 14 inches compressed charcoal on paper SOLD
   - image_path: /assets/images/4ec64db96e629.jpg
     image_title: All of My Life
-    image_description: compressed charcoal on paper H 18 x W 14 inches £320
+    image_description: compressed charcoal on paper H 18 x W 14 inches £525
   - image_path: /assets/images/4ec65030ec521.jpg
     image_title: Heavens Open
     image_description: compressed charcoal on paper H 11 x W 6 inches £310
@@ -266,3 +266,4 @@ _comments:
   images: Add and edit your gallery images here
   image_description: May only be used in the close up of an image
 ---
+
