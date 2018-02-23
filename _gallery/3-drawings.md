@@ -193,7 +193,7 @@ images:
     image_description: compressed charcoal on paper 18 x 22 inches £310
   - image_path: /assets/images/551e6204bff39.jpg
     image_title: Under My Skin
-    image_description: compressed charcoal on paper 22ins x 18ins £305
+    image_description: compressed charcoal on paper 22ins x 18ins £395
   - image_path: /assets/images/551e6267bae85.jpg
     image_title: Misty
     image_description: compressed charcoal on paper 18 x 14 inches £375
