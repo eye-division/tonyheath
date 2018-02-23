@@ -187,7 +187,7 @@ images:
     image_description: compressed charcoal on paper 18 x 22 inches SOLD
   - image_path: /assets/images/551da874064c7.jpg
     image_title: Take the A Train
-    image_description: 22ins x 18ins compressed charcoal on paper £315
+    image_description: 22ins x 18ins compressed charcoal on paper £435
   - image_path: /assets/images/551e61b07c246.jpg
     image_title: Cloud Nine
     image_description: compressed charcoal on paper 18 x 22 inches £310
