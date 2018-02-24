@@ -15,7 +15,7 @@ images:
     image_title: Angel Wings
     image_description: '32ins x 20ins Acrylic on canvas  £2,650'
   - image_path: /assets/images/551d8f8cb5c88.jpg
-    image_title: Feelin Good
+    image_title: Groovin High
     image_description: 120 x150 inches Acrylic on canvas  £4750
   - image_path: /assets/images/5370c51b8779b.jpg
     image_title: Day Dreamer
