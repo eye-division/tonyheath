@@ -1,7 +1,7 @@
 # External gems
-gems:
-  - jekyll-sitemap
-  - jekyll-paginate
+plugins:
+   - jekyll-seo-tag
+   - jekyll-sitemap
 
 exclude:
   - "/vendor/"
@@ -22,10 +22,7 @@ email: a.ward@eyedivision.com
 
 # Build settings
 markdown: kramdown
-paginate: 5
-paginate_path: "/page:num/"
-inter_post_navigation: false
-permalink: /posts/:title
+permalink: pretty
 highlightjs_theme: "monokai-sublime"
 
 # Gallery custom settings
