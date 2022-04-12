@@ -1,19 +1,19 @@
 ---
-title: Paintings - Life
-description_markdown:
+title: "Paintings - Life            Click on a painting\_to see details of each work at foot           "
+description_markdown: '###### ***Click on a painting to see details of each work at foot***'
 _gallery_date:
-permalink: /paintings-life/
+permalink: '/paintings-life/                        '
 main_image_path:
 images:
   - image_path: /assets/images/551d8d342cd95.jpg
     image_title: All of Me
-    image_description: '32 x 20 inches Acrylic on canvas £2,450'
+    image_description: 32 x 20 inches Acrylic on canvas £2,450
   - image_path: /uploads/purple-heather-1.jpg
     image_title: Purple Heather
-    image_description: 'Acrylic on Canvas  30 x 18 inches  £2,150'
+    image_description: Acrylic on Canvas  30 x 18 inches  £2,150
   - image_path: /assets/images/537098544f721.jpg
     image_title: Angel Wings
-    image_description: '32ins x 20ins Acrylic on canvas  £2,650'
+    image_description: 32ins x 20ins Acrylic on canvas  £2,650
   - image_path: /assets/images/551d8f8cb5c88.jpg
     image_title: Groovin High
     image_description: 120 x150 inches Acrylic on canvas  £4750
@@ -22,16 +22,16 @@ images:
     image_description: 32ins x 20ins Acrylic on canvas £1300
   - image_path: /assets/images/551d8d9995477.jpg
     image_title: Summertime
-    image_description: '32 x 20 inches Acrylic on canvas  2,500'
+    image_description: 32 x 20 inches Acrylic on canvas  2,500
   - image_path: /assets/images/5370b4788385e.jpg
     image_title: Call me the Breeze
-    image_description: '30 x 20 inches Acrylic on canvas  £2,450'
+    image_description: 30 x 20 inches Acrylic on canvas  £2,450
   - image_path: /assets/images/4e946746afddd.jpg
     image_title: Careless Whisper
     image_description: acrylic on board H 24 x W 18 inches SOLD
   - image_path: /assets/images/554cca2f235f8.jpg
     image_title: I Got Rythm
-    image_description: '24 x 20 inches Acrylic on canvas  £1,550'
+    image_description: 24 x 20 inches Acrylic on canvas  £1,550
   - image_path: /assets/images/4ec64799eb5fb.jpg
     image_title: The First Time
     image_description: acrylic on board H 24 x W 18 inches SOLD
@@ -43,13 +43,13 @@ images:
     image_description: acrylic on board H 24 x W 18 inches SOLD
   - image_path: /uploads/sweet-thing.jpg
     image_title: Sweet Thing
-    image_description: 'Acrylic on canvas  24 x 20 inches  £1,550'
+    image_description: Acrylic on canvas  24 x 20 inches  £1,550
   - image_path: /assets/images/58655e03f397c.jpg
     image_title: I Miss You
     image_description: 32 x 30 inches Acrylic on canvas £1750
   - image_path: /assets/images/586560b53f695.jpg
     image_title: All I Ask
-    image_description: '24 x 20 inches acrylic on canvas  1,550'
+    image_description: 24 x 20 inches acrylic on canvas  1,550
   - image_path:
     image_title: That's just the way it is
     image_description: H 24 x W 18 inches Acrylic on canvas SOLD
@@ -58,7 +58,7 @@ images:
     image_description: 32 x 20 inches Acrylic on canvas £1950
   - image_path: /uploads/domino.jpg
     image_title: Domino
-    image_description: '24 x 18 inches  Acrylic on canvas  £1,550'
+    image_description: 24 x 18 inches  Acrylic on canvas  £1,550
   - image_path: /assets/images/586559a898e21.jpg
     image_title: Lucille
     image_description: 28 x 20 acrylic on board £1300
@@ -70,7 +70,7 @@ images:
     image_description: H 18 X W 24 inches acrylic on board SOLD
   - image_path: /assets/images/513e1982020f6.jpg
     image_title: Crescendo in Blue
-    image_description: '32 x  20 inches Acrylic on Canvas   £2,450'
+    image_description: 32 x  20 inches Acrylic on Canvas   £2,450
   - image_path: /assets/images/554cc895530b3.jpg
     image_title: Joy Spring
     image_description: 24 x 20 inches Acrylic on canvas £1285
@@ -140,4 +140,3 @@ _comments:
   images: Add and edit your gallery images here
   image_description: May only be used in the close up of an image
 ---
-
