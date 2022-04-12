@@ -2,7 +2,7 @@
 title: Paintings - Life
 description_markdown: Single click on drawing to see details of each work below
 _gallery_date:
-permalink: /paintings-life/Click
+permalink: /paintings-life/                         Click
 main_image_path:
 images:
   - image_path: /assets/images/551d8d342cd95.jpg
