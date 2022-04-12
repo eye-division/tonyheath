@@ -1,6 +1,6 @@
 ---
 title: Paintings - Life
-description_markdown: Single click to see details of each work below
+description_markdown: Single click on drawing to see details of each work below
 _gallery_date:
 permalink: /paintings-life/
 main_image_path:
