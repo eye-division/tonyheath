@@ -1,8 +1,8 @@
 ---
-title: "Paintings - Life            Click on a painting\_to see details of each work at foot           "
+title: Paintings - Life
 description_markdown: '###### ***Click on a painting to see details of each work at foot***'
 _gallery_date:
-permalink: '/paintings-life/                        '
+permalink: '/paintings-life/'
 main_image_path:
 images:
   - image_path: /assets/images/551d8d342cd95.jpg
