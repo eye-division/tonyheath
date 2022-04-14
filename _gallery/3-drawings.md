@@ -1,6 +1,6 @@
 ---
-title: Drawings - Life
-description_markdown:
+title: Drawings - Life  Click on a drawing to see details at foot
+description_markdown: '**Click on a drawing to see details at foot**'
 _gallery_date:
 permalink: /drawings-life/
 main_image_path:
