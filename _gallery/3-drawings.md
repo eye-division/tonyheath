@@ -1,5 +1,7 @@
 ---
-title: Drawings - Life  Click on a drawing to see details at foot
+title: >-
+  Drawings - Life                             Click on a drawing to see details
+  at foot
 description_markdown: '**Click on a drawing to see details at foot**'
 _gallery_date:
 permalink: /drawings-life/
@@ -266,4 +268,3 @@ _comments:
   images: Add and edit your gallery images here
   image_description: May only be used in the close up of an image
 ---
-
